@@ -1,0 +1,61 @@
+# Virtual Environment
+receipt-env/
+venv/
+env/
+ENV/
+
+# Credentials
+credentials.py
+config.py
+.env
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Receipt images (if sensitive)
+receipts/
+uploads/
+
+# Environment variables
+.env.local
+.env.*.local
