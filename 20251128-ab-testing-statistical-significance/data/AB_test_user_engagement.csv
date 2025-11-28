@@ -1,0 +1,1001 @@
+user_id,group,clicks,time_spent,device,age,location,browser_type,account_type,plan,product_category,marketing_channel
+522,B,5,18.168305123870294,Desktop,45,Urban,Firefox,Premium,Basic,Electronics,Social Media
+738,B,3,11.509001626944752,Desktop,19,Rural,Safari,Premium,Enterprise,Clothing,Paid Ads
+741,A,1,23.393373366862832,Desktop,27,Urban,Firefox,Premium,Pro,Electronics,Referral
+661,B,4,5.441797246741214,Mobile,39,Urban,Safari,Free,Enterprise,Clothing,Paid Ads
+412,B,4,21.555837489013122,Desktop,30,Urban,Chrome,Premium,Basic,Books,Social Media
+679,B,4,13.878405145609475,Desktop,26,Urban,Chrome,Free,Pro,Books,Social Media
+627,A,1,19.29792436171778,Mobile,50,Rural,Chrome,Free,Enterprise,Books,Social Media
+514,A,5,15.399007420293666,Mobile,31,Urban,Firefox,Free,Pro,Books,Referral
+860,A,6,20.697777680127345,Mobile,65,Suburban,Safari,Premium,Basic,Electronics,Referral
+137,A,0,13.063190177235944,Mobile,37,Suburban,Firefox,Premium,Enterprise,Electronics,Referral
+812,A,4,9.506897874110939,Mobile,32,Suburban,Safari,Free,Enterprise,Clothing,Referral
+77,A,2,22.102521436355318,Mobile,49,Rural,Chrome,Free,Pro,Clothing,Social Media
+637,A,2,14.432596770589292,Desktop,50,Urban,Firefox,Free,Enterprise,Clothing,Social Media
+974,A,3,16.107792368121054,Mobile,34,Rural,Chrome,Free,Enterprise,Clothing,Social Media
+939,B,1,21.173759570223975,Desktop,41,Urban,Firefox,Premium,Enterprise,Clothing,Referral
+900,B,1,9.840223789527826,Mobile,47,Rural,Chrome,Free,Enterprise,Books,Referral
+281,A,5,17.977454488196287,Desktop,30,Rural,Firefox,Premium,Basic,Books,Social Media
+884,A,0,12.050526217685546,Desktop,64,Urban,Firefox,Free,Enterprise,Books,Social Media
+762,B,2,14.33915322177814,Mobile,65,Rural,Safari,Premium,Pro,Clothing,Referral
+320,A,3,15.361394826921444,Mobile,33,Urban,Chrome,Free,Basic,Books,Paid Ads
+550,A,2,7.49889069276532,Desktop,19,Suburban,Safari,Premium,Pro,Books,Social Media
+175,A,2,11.105814785897826,Mobile,34,Suburban,Safari,Premium,Pro,Books,Social Media
+372,B,1,21.755364462065696,Mobile,49,Suburban,Chrome,Premium,Pro,Books,Social Media
+528,B,1,19.43095594292398,Desktop,60,Rural,Firefox,Free,Basic,Electronics,Referral
+211,B,3,14.686802113363825,Desktop,25,Suburban,Safari,Premium,Basic,Clothing,Social Media
+236,B,1,16.215617292564467,Desktop,69,Urban,Chrome,Free,Basic,Clothing,Social Media
+102,B,2,13.528787471817711,Mobile,20,Suburban,Firefox,Premium,Enterprise,Electronics,Social Media
+987,A,0,21.782916929139912,Mobile,29,Suburban,Safari,Premium,Pro,Books,Social Media
+903,B,1,13.99823711102918,Mobile,37,Rural,Safari,Free,Basic,Books,Social Media
+948,A,7,16.15921046067424,Mobile,33,Urban,Safari,Premium,Pro,Books,Paid Ads
+347,A,6,20.730150720710327,Desktop,31,Rural,Firefox,Premium,Basic,Clothing,Paid Ads
+140,B,1,11.113142575770468,Mobile,33,Rural,Safari,Free,Basic,Clothing,Social Media
+622,B,1,22.79394592248447,Desktop,66,Urban,Firefox,Premium,Basic,Clothing,Social Media
+500,A,4,7.347692951283116,Mobile,60,Rural,Safari,Premium,Pro,Clothing,Social Media
+371,A,5,23.148210655563993,Mobile,66,Urban,Chrome,Premium,Enterprise,Clothing,Social Media
+199,A,5,13.136622080240127,Desktop,68,Suburban,Safari,Premium,Basic,Electronics,Referral
+688,B,0,13.78650626087359,Mobile,50,Urban,Chrome,Free,Basic,Clothing,Referral
+585,B,5,5.549949144085286,Mobile,47,Urban,Chrome,Premium,Basic,Books,Referral
+902,B,3,12.726026413111535,Desktop,29,Urban,Chrome,Premium,Enterprise,Clothing,Paid Ads
+60,B,7,9.80096734486558,Mobile,32,Rural,Firefox,Premium,Pro,Electronics,Social Media
+329,B,3,11.961768273132638,Desktop,35,Urban,Chrome,Premium,Pro,Books,Referral
+97,A,3,14.313445171055601,Desktop,45,Urban,Safari,Premium,Pro,Electronics,Social Media
+313,B,3,19.78895807236453,Desktop,40,Urban,Firefox,Premium,Pro,Books,Social Media
+975,A,4,16.038016757003128,Desktop,31,Suburban,Chrome,Premium,Basic,Clothing,Paid Ads
+300,A,4,16.538383267005567,Mobile,47,Urban,Firefox,Premium,Enterprise,Electronics,Paid Ads
+278,A,3,9.522403055772187,Mobile,50,Rural,Firefox,Free,Basic,Books,Referral
+925,B,3,10.59622955198635,Mobile,62,Urban,Firefox,Free,Enterprise,Clothing,Referral
+602,B,3,23.993625091756556,Desktop,32,Urban,Safari,Free,Pro,Books,Paid Ads
+440,B,2,11.323994826183768,Mobile,24,Suburban,Chrome,Free,Enterprise,Electronics,Paid Ads
+838,A,4,23.28104126028648,Mobile,32,Urban,Firefox,Premium,Basic,Electronics,Social Media
+571,A,1,13.784694005595668,Mobile,69,Rural,Firefox,Premium,Basic,Electronics,Social Media
+880,A,0,15.01143968071752,Mobile,59,Urban,Firefox,Free,Pro,Electronics,Referral
+262,A,7,20.351825801149648,Desktop,63,Rural,Chrome,Free,Basic,Clothing,Referral
+579,A,1,21.359462109693283,Desktop,55,Suburban,Firefox,Free,Basic,Books,Paid Ads
+24,A,1,14.445937198604563,Mobile,63,Urban,Firefox,Premium,Enterprise,Clothing,Referral
+31,B,1,13.058784732392308,Desktop,61,Suburban,Safari,Premium,Basic,Electronics,Social Media
+618,B,3,14.720397757388934,Mobile,28,Urban,Chrome,Free,Pro,Books,Paid Ads
+11,B,1,16.689787641160592,Mobile,46,Rural,Safari,Free,Pro,Electronics,Social Media
+222,B,3,19.456518434348776,Mobile,48,Suburban,Chrome,Free,Basic,Clothing,Paid Ads
+821,A,6,15.021149294970758,Desktop,42,Urban,Chrome,Free,Pro,Clothing,Paid Ads
+297,A,1,18.094431490115767,Mobile,69,Rural,Chrome,Free,Enterprise,Clothing,Social Media
+55,B,2,23.191798661354703,Desktop,41,Suburban,Safari,Premium,Enterprise,Books,Referral
+543,A,3,16.906548061323925,Desktop,36,Urban,Safari,Free,Basic,Books,Referral
+210,B,3,16.55826428002389,Mobile,19,Suburban,Safari,Premium,Basic,Electronics,Referral
+605,B,7,7.405445874549661,Desktop,39,Urban,Safari,Free,Enterprise,Books,Referral
+693,B,5,1.8463493158546829,Desktop,37,Rural,Firefox,Free,Pro,Books,Social Media
+663,A,2,16.94187864615084,Mobile,50,Rural,Firefox,Premium,Basic,Clothing,Paid Ads
+867,B,1,14.525878843595638,Desktop,25,Suburban,Firefox,Free,Basic,Electronics,Social Media
+71,B,7,12.42608662542629,Desktop,42,Suburban,Chrome,Premium,Pro,Clothing,Referral
+544,B,5,16.217651020931722,Mobile,63,Urban,Firefox,Premium,Basic,Electronics,Referral
+108,A,3,14.69798135401546,Mobile,26,Rural,Chrome,Free,Pro,Electronics,Social Media
+494,A,2,20.638901253169493,Desktop,51,Urban,Safari,Free,Pro,Books,Paid Ads
+591,B,3,15.43055434129489,Mobile,40,Rural,Chrome,Premium,Pro,Clothing,Social Media
+742,A,2,11.265383574649162,Mobile,22,Suburban,Chrome,Premium,Pro,Books,Social Media
+293,A,4,19.950831194796447,Desktop,42,Urban,Firefox,Free,Pro,Books,Social Media
+290,A,3,13.914344625268988,Desktop,25,Urban,Safari,Premium,Enterprise,Books,Paid Ads
+653,A,3,17.632683418361534,Mobile,33,Rural,Safari,Free,Pro,Electronics,Social Media
+40,A,6,12.612946469035998,Desktop,65,Rural,Firefox,Premium,Enterprise,Clothing,Social Media
+590,A,1,11.750865572512819,Mobile,62,Rural,Safari,Free,Pro,Clothing,Referral
+308,A,4,15.420841150928482,Mobile,69,Suburban,Safari,Premium,Basic,Books,Social Media
+680,A,2,15.064143217718426,Desktop,32,Urban,Safari,Premium,Enterprise,Electronics,Referral
+67,A,2,17.399135176834164,Desktop,18,Rural,Firefox,Free,Basic,Clothing,Referral
+276,A,3,13.656771233451288,Mobile,39,Suburban,Safari,Premium,Pro,Clothing,Referral
+68,B,3,5.818201081148013,Mobile,20,Rural,Chrome,Premium,Pro,Books,Paid Ads
+319,B,1,12.836130582058056,Mobile,55,Urban,Chrome,Premium,Basic,Electronics,Referral
+549,A,3,18.96909233571908,Mobile,31,Rural,Safari,Premium,Pro,Books,Social Media
+999,B,2,13.513119603784467,Desktop,53,Urban,Firefox,Premium,Basic,Clothing,Social Media
+715,B,4,13.76808298742726,Mobile,35,Suburban,Firefox,Premium,Pro,Electronics,Referral
+754,A,6,19.931882529529684,Desktop,64,Suburban,Firefox,Premium,Pro,Books,Referral
+328,A,5,11.440133863705386,Desktop,58,Rural,Safari,Free,Enterprise,Clothing,Social Media
+383,A,5,7.285983908785502,Mobile,35,Urban,Safari,Premium,Basic,Books,Referral
+452,B,3,14.196844402372529,Desktop,20,Urban,Chrome,Premium,Pro,Books,Paid Ads
+523,B,3,12.579130243756316,Desktop,27,Urban,Firefox,Free,Basic,Books,Referral
+219,A,0,10.16876840123373,Mobile,66,Rural,Chrome,Premium,Enterprise,Electronics,Paid Ads
+788,A,3,14.123107720506546,Desktop,56,Urban,Chrome,Premium,Basic,Clothing,Paid Ads
+437,A,4,17.45752823623392,Desktop,64,Urban,Firefox,Free,Enterprise,Clothing,Paid Ads
+765,B,6,14.953557192160922,Mobile,18,Urban,Safari,Premium,Basic,Clothing,Referral
+89,B,2,16.53490536343119,Mobile,44,Urban,Safari,Premium,Basic,Clothing,Paid Ads
+64,B,1,24.067038492577115,Mobile,44,Rural,Chrome,Free,Enterprise,Electronics,Paid Ads
+827,B,2,13.28560569221218,Mobile,28,Rural,Chrome,Free,Pro,Books,Referral
+717,A,2,16.391743173223347,Mobile,66,Urban,Chrome,Premium,Pro,Clothing,Paid Ads
+352,A,1,12.453933187004328,Mobile,22,Urban,Chrome,Premium,Pro,Electronics,Referral
+937,A,2,10.768201400565136,Mobile,24,Suburban,Firefox,Free,Basic,Books,Social Media
+257,A,5,12.075461732911151,Desktop,36,Suburban,Chrome,Premium,Basic,Electronics,Paid Ads
+636,B,6,12.606207142391556,Desktop,46,Urban,Chrome,Free,Pro,Electronics,Referral
+645,B,4,16.797378987735627,Mobile,32,Urban,Safari,Free,Basic,Clothing,Social Media
+555,A,2,26.745378933503787,Desktop,52,Suburban,Safari,Free,Basic,Clothing,Paid Ads
+960,A,5,11.4197828186208,Desktop,64,Suburban,Safari,Premium,Pro,Books,Paid Ads
+169,B,4,12.916873471922688,Mobile,54,Urban,Firefox,Free,Enterprise,Books,Referral
+918,A,3,14.68438493444376,Desktop,29,Rural,Firefox,Free,Basic,Clothing,Social Media
+529,B,4,16.978994243548733,Mobile,47,Rural,Safari,Free,Basic,Electronics,Referral
+824,A,0,16.317754059773925,Desktop,37,Urban,Safari,Premium,Basic,Clothing,Paid Ads
+986,A,2,21.420478969740586,Mobile,54,Urban,Chrome,Premium,Basic,Books,Paid Ads
+817,A,2,2.8680396473239567,Desktop,20,Suburban,Chrome,Premium,Enterprise,Electronics,Paid Ads
+87,A,3,3.0653506490216365,Desktop,26,Suburban,Firefox,Free,Pro,Electronics,Paid Ads
+433,A,5,12.520609139949254,Desktop,58,Rural,Firefox,Premium,Basic,Electronics,Social Media
+185,A,3,20.486500937718542,Mobile,56,Urban,Chrome,Premium,Pro,Clothing,Social Media
+979,A,5,7.171759841972019,Desktop,43,Suburban,Safari,Free,Basic,Clothing,Referral
+535,B,2,-0.03816169846878603,Desktop,19,Rural,Chrome,Free,Enterprise,Books,Referral
+295,B,4,17.855897031096042,Mobile,40,Rural,Firefox,Premium,Pro,Electronics,Referral
+893,B,5,16.21828611851357,Mobile,40,Rural,Firefox,Premium,Enterprise,Electronics,Paid Ads
+426,B,2,9.54895796600285,Desktop,38,Suburban,Chrome,Free,Basic,Clothing,Referral
+714,B,1,10.07230199639535,Desktop,33,Suburban,Chrome,Premium,Enterprise,Books,Social Media
+261,A,0,10.151281401826628,Desktop,26,Urban,Chrome,Free,Enterprise,Books,Referral
+238,A,4,15.552676587369701,Desktop,30,Urban,Firefox,Free,Basic,Electronics,Referral
+560,B,3,11.868423619084965,Mobile,45,Rural,Safari,Premium,Basic,Clothing,Social Media
+584,A,4,17.470319594877598,Desktop,44,Rural,Chrome,Premium,Pro,Electronics,Social Media
+446,B,1,0.7268666854780448,Desktop,68,Suburban,Firefox,Premium,Basic,Clothing,Paid Ads
+868,B,1,10.715740674361003,Mobile,69,Suburban,Firefox,Premium,Pro,Books,Social Media
+801,A,2,9.369730195444747,Desktop,34,Urban,Firefox,Free,Enterprise,Electronics,Social Media
+600,A,2,13.718296608137539,Desktop,55,Urban,Chrome,Premium,Enterprise,Electronics,Referral
+850,A,1,12.309761207549307,Desktop,53,Urban,Chrome,Premium,Pro,Electronics,Social Media
+266,B,2,18.989218899478832,Mobile,18,Suburban,Safari,Premium,Basic,Books,Paid Ads
+996,A,5,5.7033161416997125,Mobile,35,Rural,Firefox,Free,Basic,Electronics,Referral
+530,B,2,15.22745738165376,Desktop,68,Urban,Chrome,Premium,Enterprise,Books,Paid Ads
+56,B,3,17.791682116058528,Desktop,26,Urban,Firefox,Premium,Pro,Clothing,Social Media
+121,B,4,24.283237182809774,Mobile,30,Suburban,Firefox,Free,Enterprise,Books,Paid Ads
+216,A,2,12.591170144532624,Desktop,57,Urban,Safari,Free,Enterprise,Clothing,Paid Ads
+26,A,2,16.622293021762584,Desktop,62,Rural,Chrome,Free,Basic,Books,Social Media
+73,B,2,5.980686037188176,Mobile,32,Suburban,Chrome,Free,Pro,Books,Social Media
+45,A,5,3.040218978434881,Mobile,60,Urban,Firefox,Free,Enterprise,Electronics,Referral
+248,A,3,19.2238718789085,Mobile,61,Urban,Firefox,Premium,Basic,Books,Referral
+722,A,2,14.972198531759647,Desktop,63,Suburban,Safari,Free,Enterprise,Electronics,Referral
+282,B,4,20.892563448992114,Desktop,21,Suburban,Safari,Free,Enterprise,Clothing,Social Media
+894,B,7,8.132985555151254,Desktop,50,Urban,Safari,Free,Basic,Clothing,Paid Ads
+915,A,1,17.599510697643762,Desktop,41,Rural,Safari,Free,Basic,Electronics,Paid Ads
+811,B,7,24.344089202719267,Mobile,53,Suburban,Safari,Free,Pro,Clothing,Referral
+245,A,3,17.09852804178633,Desktop,68,Rural,Safari,Free,Enterprise,Books,Referral
+823,A,1,16.382907527955243,Desktop,58,Urban,Firefox,Free,Pro,Electronics,Social Media
+322,A,2,15.04278040412175,Mobile,27,Rural,Safari,Free,Basic,Electronics,Paid Ads
+644,A,1,7.145592714370439,Mobile,53,Urban,Firefox,Premium,Basic,Electronics,Referral
+159,B,4,21.77786467855174,Desktop,37,Urban,Firefox,Premium,Enterprise,Clothing,Social Media
+978,B,3,11.94571180097467,Mobile,58,Urban,Chrome,Premium,Pro,Clothing,Referral
+430,B,2,17.522416281915085,Mobile,62,Urban,Firefox,Free,Pro,Books,Social Media
+942,A,1,7.184828467143732,Desktop,61,Rural,Firefox,Free,Enterprise,Books,Paid Ads
+463,A,2,9.102701677461098,Desktop,28,Urban,Safari,Free,Enterprise,Electronics,Social Media
+310,A,3,22.175436996111177,Desktop,29,Urban,Firefox,Premium,Pro,Books,Referral
+698,B,3,13.263488555210785,Desktop,35,Rural,Safari,Free,Basic,Clothing,Referral
+61,A,1,22.266377380212724,Mobile,47,Suburban,Safari,Free,Basic,Books,Paid Ads
+885,B,7,14.60884670470741,Mobile,61,Rural,Safari,Free,Enterprise,Clothing,Paid Ads
+596,B,2,5.790511135210713,Desktop,65,Rural,Chrome,Premium,Pro,Books,Referral
+768,B,3,19.460337998658602,Desktop,54,Rural,Safari,Premium,Pro,Clothing,Referral
+650,B,4,12.050538411221961,Mobile,37,Urban,Firefox,Free,Pro,Clothing,Referral
+651,B,3,18.493444067585216,Desktop,42,Urban,Safari,Premium,Basic,Books,Paid Ads
+866,B,6,15.12605433770041,Desktop,29,Urban,Safari,Free,Basic,Books,Referral
+669,A,5,7.28440886028565,Desktop,38,Suburban,Safari,Free,Pro,Clothing,Paid Ads
+299,A,2,15.821473826852845,Desktop,42,Urban,Chrome,Premium,Pro,Electronics,Referral
+690,B,1,25.981115710763994,Mobile,28,Suburban,Firefox,Premium,Enterprise,Books,Social Media
+315,B,5,17.464932292572296,Desktop,26,Urban,Chrome,Premium,Enterprise,Clothing,Social Media
+311,A,3,14.712411234972684,Mobile,67,Rural,Firefox,Premium,Pro,Books,Referral
+362,B,5,20.37671700978449,Desktop,42,Urban,Chrome,Free,Pro,Books,Social Media
+480,B,1,16.053342326015553,Desktop,52,Suburban,Firefox,Free,Basic,Books,Paid Ads
+111,A,3,16.04767115131397,Mobile,69,Suburban,Chrome,Premium,Pro,Books,Social Media
+990,B,3,9.541874139204488,Desktop,49,Urban,Safari,Premium,Enterprise,Books,Social Media
+487,B,3,16.16924012894799,Mobile,66,Rural,Chrome,Free,Basic,Electronics,Paid Ads
+364,B,2,20.177217082084724,Desktop,31,Urban,Chrome,Free,Enterprise,Electronics,Social Media
+255,A,1,10.819689239499876,Desktop,18,Urban,Safari,Free,Enterprise,Electronics,Social Media
+260,A,4,22.122479106234742,Desktop,34,Urban,Safari,Free,Basic,Clothing,Referral
+803,A,1,14.54146987927437,Desktop,42,Rural,Firefox,Premium,Enterprise,Electronics,Paid Ads
+678,B,7,10.561152442307296,Desktop,25,Suburban,Firefox,Premium,Pro,Electronics,Paid Ads
+495,B,2,19.988160384601223,Mobile,22,Rural,Firefox,Premium,Enterprise,Clothing,Referral
+671,A,3,13.566028821308654,Mobile,22,Suburban,Chrome,Free,Basic,Electronics,Referral
+378,B,3,18.79757443743054,Desktop,58,Suburban,Firefox,Free,Basic,Books,Social Media
+527,B,6,13.541206838707314,Desktop,52,Suburban,Chrome,Premium,Basic,Electronics,Social Media
+846,B,2,14.700869282350482,Mobile,36,Rural,Chrome,Premium,Enterprise,Electronics,Social Media
+138,B,1,17.46780102167146,Mobile,40,Urban,Firefox,Premium,Pro,Electronics,Referral
+356,B,5,16.45448528795003,Desktop,26,Urban,Firefox,Free,Basic,Books,Paid Ads
+366,A,2,5.022341097741307,Desktop,47,Urban,Chrome,Premium,Pro,Books,Social Media
+943,B,6,9.39378129952804,Mobile,67,Urban,Safari,Free,Basic,Books,Referral
+750,A,3,19.64704992395408,Desktop,33,Urban,Safari,Premium,Pro,Books,Paid Ads
+949,B,4,14.339317055492264,Mobile,50,Rural,Chrome,Premium,Pro,Clothing,Referral
+830,A,2,12.38134348614289,Desktop,19,Rural,Firefox,Premium,Pro,Books,Social Media
+657,B,0,8.207129923712628,Mobile,31,Rural,Chrome,Free,Basic,Books,Referral
+200,A,3,9.601318393620758,Mobile,63,Rural,Chrome,Free,Enterprise,Books,Referral
+214,B,5,4.891006800190263,Desktop,18,Rural,Firefox,Free,Enterprise,Books,Referral
+409,A,3,14.493596406492335,Mobile,43,Rural,Safari,Free,Enterprise,Clothing,Referral
+333,B,2,12.007812097094765,Desktop,42,Rural,Chrome,Free,Pro,Electronics,Paid Ads
+209,A,3,10.167060545073424,Desktop,33,Urban,Safari,Free,Basic,Electronics,Social Media
+614,B,3,14.659382874160235,Desktop,32,Suburban,Safari,Premium,Pro,Books,Paid Ads
+79,A,2,16.81985315426369,Desktop,43,Rural,Firefox,Free,Basic,Books,Referral
+30,A,2,25.465989661049726,Mobile,64,Suburban,Chrome,Premium,Pro,Books,Referral
+536,B,3,7.440582902183932,Desktop,61,Rural,Chrome,Free,Basic,Electronics,Social Media
+696,B,2,20.79690521650261,Desktop,33,Rural,Safari,Premium,Basic,Electronics,Social Media
+558,A,1,19.86550780507536,Desktop,31,Urban,Safari,Premium,Basic,Books,Paid Ads
+837,B,2,11.104536303116497,Desktop,46,Suburban,Firefox,Free,Pro,Electronics,Paid Ads
+597,A,4,16.016179772930155,Mobile,41,Urban,Safari,Premium,Enterprise,Clothing,Social Media
+166,A,4,12.711833753311923,Desktop,64,Urban,Firefox,Free,Pro,Books,Paid Ads
+919,A,4,15.928442902093694,Mobile,32,Suburban,Chrome,Free,Pro,Books,Referral
+496,B,3,22.545655067022754,Mobile,36,Urban,Firefox,Free,Basic,Clothing,Referral
+825,A,3,18.028031163156566,Mobile,25,Rural,Safari,Free,Basic,Clothing,Social Media
+66,A,1,17.54304186616721,Desktop,51,Rural,Chrome,Premium,Enterprise,Electronics,Paid Ads
+142,B,4,12.848453400226788,Desktop,19,Rural,Firefox,Free,Enterprise,Clothing,Referral
+926,B,2,7.579716675378324,Desktop,44,Rural,Chrome,Premium,Basic,Books,Social Media
+828,B,2,13.957658947297961,Desktop,27,Rural,Firefox,Premium,Enterprise,Electronics,Paid Ads
+656,B,2,21.033040774319577,Mobile,52,Urban,Safari,Premium,Enterprise,Clothing,Referral
+332,A,6,7.364160717051762,Mobile,40,Urban,Safari,Free,Basic,Electronics,Paid Ads
+665,A,1,9.724553159116525,Desktop,66,Rural,Chrome,Premium,Pro,Electronics,Paid Ads
+250,A,2,15.631338681170341,Desktop,25,Rural,Chrome,Free,Enterprise,Electronics,Paid Ads
+908,A,2,10.076726075763688,Desktop,45,Urban,Chrome,Premium,Basic,Electronics,Social Media
+709,B,2,11.037382764423937,Desktop,40,Suburban,Firefox,Free,Enterprise,Clothing,Referral
+306,A,5,12.882007091359116,Desktop,21,Urban,Safari,Free,Enterprise,Books,Social Media
+735,A,3,8.171912979049253,Desktop,31,Urban,Chrome,Free,Basic,Books,Referral
+976,B,1,10.129390768918158,Desktop,59,Urban,Chrome,Free,Enterprise,Clothing,Referral
+50,A,3,18.517139583936544,Mobile,46,Urban,Chrome,Premium,Enterprise,Books,Social Media
+897,A,5,8.46315108884518,Mobile,18,Urban,Firefox,Premium,Enterprise,Electronics,Social Media
+3,A,4,7.010639327525812,Mobile,21,Suburban,Chrome,Free,Pro,Electronics,Referral
+545,A,4,11.849875102330529,Mobile,49,Rural,Chrome,Premium,Pro,Electronics,Referral
+351,A,5,18.65977751254923,Desktop,50,Rural,Firefox,Free,Enterprise,Clothing,Referral
+905,A,2,14.015390960015552,Desktop,66,Suburban,Firefox,Free,Basic,Electronics,Paid Ads
+537,B,3,12.677094609421907,Desktop,43,Rural,Chrome,Premium,Enterprise,Electronics,Referral
+345,B,2,15.221793987578035,Desktop,34,Rural,Chrome,Free,Enterprise,Clothing,Social Media
+995,A,8,6.27146283570174,Desktop,56,Rural,Firefox,Free,Pro,Electronics,Social Media
+482,A,3,17.473528268875164,Mobile,40,Suburban,Safari,Free,Pro,Electronics,Social Media
+576,B,4,16.91717515701822,Desktop,49,Suburban,Firefox,Free,Pro,Books,Referral
+34,A,5,12.953457629521393,Mobile,69,Rural,Safari,Free,Enterprise,Clothing,Referral
+32,A,4,20.029622558982084,Desktop,32,Rural,Chrome,Premium,Enterprise,Electronics,Paid Ads
+232,A,3,9.362519505234806,Mobile,30,Rural,Chrome,Premium,Basic,Electronics,Paid Ads
+964,B,3,20.639544966267845,Desktop,19,Urban,Safari,Premium,Enterprise,Electronics,Social Media
+193,A,1,15.772468327976256,Mobile,36,Urban,Firefox,Free,Enterprise,Electronics,Paid Ads
+334,B,4,13.317237050609133,Desktop,41,Urban,Chrome,Free,Pro,Books,Paid Ads
+4,A,4,14.900631823158442,Desktop,62,Suburban,Safari,Free,Pro,Books,Social Media
+205,B,3,14.463676170945291,Desktop,41,Rural,Firefox,Free,Pro,Books,Referral
+515,B,2,21.101414482088586,Desktop,28,Suburban,Safari,Free,Pro,Books,Paid Ads
+800,A,5,9.616604362644932,Mobile,39,Suburban,Firefox,Free,Pro,Clothing,Referral
+307,B,1,11.187403804267008,Desktop,32,Suburban,Firefox,Premium,Basic,Electronics,Social Media
+110,A,7,20.181514460362397,Mobile,27,Rural,Firefox,Free,Basic,Books,Social Media
+431,B,3,12.022325324080704,Desktop,58,Urban,Firefox,Premium,Basic,Electronics,Paid Ads
+78,A,4,19.50266538665796,Mobile,44,Rural,Safari,Free,Pro,Clothing,Social Media
+85,A,2,23.49717991504355,Desktop,26,Rural,Safari,Premium,Pro,Electronics,Social Media
+287,B,0,12.991024865291832,Desktop,69,Suburban,Safari,Free,Pro,Electronics,Social Media
+83,A,4,18.406811632876526,Mobile,45,Suburban,Safari,Premium,Basic,Books,Paid Ads
+992,A,3,9.231538593300709,Desktop,18,Suburban,Safari,Premium,Pro,Books,Paid Ads
+790,B,4,18.773666490339046,Desktop,34,Urban,Firefox,Free,Basic,Clothing,Paid Ads
+895,A,3,15.997119929933836,Mobile,48,Urban,Chrome,Free,Pro,Electronics,Social Media
+399,A,1,17.365191410801074,Desktop,61,Urban,Chrome,Premium,Enterprise,Books,Referral
+324,B,0,11.772139639823024,Mobile,27,Rural,Safari,Free,Basic,Books,Social Media
+520,B,3,6.6945829221641375,Desktop,54,Suburban,Safari,Free,Enterprise,Books,Paid Ads
+917,A,2,17.516260323747524,Mobile,46,Rural,Chrome,Free,Basic,Clothing,Referral
+923,A,6,4.682984237602728,Mobile,35,Urban,Firefox,Premium,Pro,Electronics,Referral
+6,B,2,13.413247538787326,Mobile,64,Suburban,Safari,Free,Pro,Books,Paid Ads
+732,B,4,19.70590933209985,Mobile,55,Urban,Firefox,Premium,Enterprise,Electronics,Referral
+466,A,3,15.95948867936518,Desktop,56,Suburban,Chrome,Premium,Pro,Clothing,Referral
+98,B,7,24.741713223949063,Desktop,66,Suburban,Chrome,Free,Basic,Electronics,Paid Ads
+267,A,5,20.125545762908867,Mobile,23,Rural,Safari,Premium,Pro,Books,Referral
+358,A,4,11.730508058372118,Desktop,57,Rural,Firefox,Free,Pro,Electronics,Referral
+869,A,1,15.136566899257193,Desktop,29,Urban,Safari,Free,Basic,Electronics,Paid Ads
+799,A,6,14.76314648727782,Desktop,31,Rural,Chrome,Premium,Enterprise,Clothing,Referral
+381,A,1,7.089116183269364,Mobile,61,Rural,Firefox,Premium,Enterprise,Clothing,Referral
+632,B,2,10.298005417578233,Desktop,27,Rural,Safari,Premium,Pro,Electronics,Referral
+382,B,1,12.196195465100699,Desktop,37,Suburban,Safari,Premium,Basic,Electronics,Referral
+491,B,3,4.818897485720317,Mobile,32,Rural,Safari,Premium,Enterprise,Electronics,Paid Ads
+119,B,2,15.237467341258215,Desktop,48,Urban,Chrome,Free,Enterprise,Clothing,Social Media
+901,A,1,13.754640776734796,Mobile,24,Suburban,Safari,Premium,Pro,Clothing,Social Media
+251,A,0,6.635530493442129,Mobile,58,Suburban,Firefox,Free,Basic,Electronics,Referral
+524,A,1,17.02106432638666,Mobile,27,Rural,Safari,Free,Enterprise,Clothing,Paid Ads
+10,A,1,18.579363723454797,Desktop,27,Suburban,Chrome,Premium,Pro,Books,Paid Ads
+197,B,5,16.135172394324446,Desktop,65,Urban,Safari,Premium,Pro,Clothing,Referral
+604,A,2,13.379659123955149,Mobile,56,Urban,Chrome,Premium,Pro,Clothing,Social Media
+82,A,6,17.957210758759274,Mobile,45,Suburban,Chrome,Premium,Pro,Clothing,Referral
+784,B,2,18.401101802383454,Mobile,47,Rural,Firefox,Premium,Enterprise,Books,Paid Ads
+588,B,5,16.537017848598442,Mobile,54,Rural,Firefox,Free,Basic,Books,Paid Ads
+798,B,2,10.876938747826195,Mobile,20,Suburban,Safari,Free,Pro,Books,Social Media
+240,B,1,16.383003827555903,Mobile,67,Urban,Chrome,Free,Pro,Electronics,Paid Ads
+291,A,1,20.977403254127395,Desktop,60,Suburban,Chrome,Premium,Enterprise,Electronics,Paid Ads
+212,A,2,12.016854706941348,Mobile,32,Rural,Firefox,Premium,Pro,Books,Paid Ads
+718,B,3,25.489696695662158,Mobile,38,Rural,Firefox,Free,Pro,Electronics,Social Media
+360,A,2,12.371845330073079,Mobile,69,Suburban,Safari,Premium,Basic,Electronics,Paid Ads
+450,A,1,15.162035066700682,Desktop,54,Urban,Chrome,Premium,Pro,Electronics,Referral
+228,A,5,11.637572019968319,Desktop,29,Suburban,Firefox,Premium,Enterprise,Books,Social Media
+951,B,5,16.116354179601306,Desktop,21,Urban,Safari,Free,Basic,Clothing,Referral
+947,A,2,6.288891536823624,Desktop,64,Urban,Chrome,Premium,Enterprise,Books,Referral
+797,B,1,12.269791005916394,Mobile,26,Suburban,Chrome,Free,Basic,Books,Social Media
+502,A,3,9.539393998257164,Desktop,56,Suburban,Firefox,Premium,Basic,Electronics,Referral
+465,A,0,15.676691739461454,Mobile,59,Urban,Safari,Premium,Pro,Electronics,Social Media
+363,A,2,19.972236877544535,Mobile,45,Urban,Firefox,Free,Pro,Clothing,Referral
+469,B,6,18.230030935572756,Mobile,40,Urban,Safari,Premium,Pro,Clothing,Social Media
+936,A,7,3.1417031957055386,Mobile,62,Urban,Chrome,Premium,Enterprise,Clothing,Paid Ads
+429,B,3,25.2103482646394,Mobile,57,Rural,Safari,Premium,Pro,Clothing,Paid Ads
+8,B,3,16.47639970310434,Mobile,61,Suburban,Safari,Free,Pro,Books,Referral
+156,B,3,11.117504297534998,Desktop,39,Urban,Safari,Premium,Basic,Clothing,Paid Ads
+542,A,1,15.785639594954702,Desktop,41,Suburban,Safari,Premium,Pro,Books,Social Media
+441,A,3,15.880949112513461,Desktop,68,Urban,Safari,Premium,Pro,Electronics,Referral
+483,A,4,11.665756415242182,Desktop,43,Suburban,Firefox,Premium,Pro,Clothing,Paid Ads
+423,A,4,15.989583336710378,Desktop,47,Suburban,Safari,Premium,Pro,Electronics,Paid Ads
+779,B,1,11.962638561898464,Mobile,50,Urban,Safari,Free,Basic,Electronics,Referral
+950,B,3,12.978190036549886,Desktop,33,Urban,Chrome,Free,Pro,Books,Paid Ads
+335,B,0,11.568604321224578,Desktop,39,Suburban,Safari,Premium,Basic,Clothing,Paid Ads
+577,A,2,7.836643551301736,Desktop,66,Suburban,Chrome,Premium,Enterprise,Books,Referral
+935,B,4,15.72918235107692,Mobile,67,Suburban,Firefox,Free,Pro,Electronics,Paid Ads
+568,A,6,17.92649718258169,Mobile,60,Rural,Firefox,Premium,Pro,Clothing,Paid Ads
+595,B,3,17.57441798038186,Mobile,35,Urban,Safari,Premium,Pro,Electronics,Paid Ads
+531,A,2,19.09962626317617,Desktop,24,Rural,Firefox,Premium,Basic,Electronics,Paid Ads
+582,A,4,16.62170105007434,Desktop,67,Rural,Safari,Premium,Pro,Clothing,Referral
+708,B,2,12.336372508915483,Desktop,43,Urban,Firefox,Premium,Pro,Clothing,Social Media
+449,B,4,19.198319322155943,Desktop,25,Urban,Safari,Premium,Enterprise,Clothing,Social Media
+454,B,2,8.212412300790325,Desktop,23,Rural,Safari,Premium,Basic,Books,Paid Ads
+229,B,6,10.496643087437599,Mobile,47,Urban,Chrome,Premium,Basic,Books,Paid Ads
+353,A,2,10.178999642883776,Desktop,56,Suburban,Chrome,Free,Enterprise,Electronics,Social Media
+729,B,0,20.40028029569655,Mobile,40,Suburban,Chrome,Free,Basic,Clothing,Paid Ads
+213,B,5,19.71394257070038,Desktop,49,Rural,Chrome,Premium,Pro,Electronics,Social Media
+80,B,3,17.436526185224974,Mobile,39,Rural,Safari,Premium,Pro,Electronics,Referral
+149,A,2,20.359649326058985,Mobile,59,Urban,Firefox,Premium,Enterprise,Electronics,Referral
+303,A,5,10.603586087940059,Mobile,60,Urban,Safari,Premium,Basic,Electronics,Referral
+629,B,4,16.742975599304902,Mobile,62,Rural,Chrome,Free,Basic,Electronics,Referral
+778,A,4,14.37412785808418,Desktop,26,Rural,Chrome,Free,Basic,Clothing,Referral
+507,B,7,19.23441051942457,Desktop,48,Suburban,Firefox,Free,Enterprise,Books,Referral
+343,A,2,14.423878837239013,Desktop,24,Suburban,Chrome,Free,Pro,Clothing,Social Media
+486,A,2,13.075285557949595,Mobile,26,Urban,Safari,Premium,Enterprise,Clothing,Paid Ads
+712,A,5,17.70454259280495,Desktop,30,Suburban,Safari,Premium,Pro,Clothing,Social Media
+134,A,4,19.380845835956166,Desktop,20,Urban,Safari,Premium,Enterprise,Books,Referral
+704,B,3,11.658274025765992,Desktop,52,Urban,Safari,Free,Pro,Books,Paid Ads
+312,B,2,14.69462164323812,Desktop,50,Urban,Safari,Premium,Basic,Books,Paid Ads
+723,B,4,9.707796831791736,Mobile,38,Suburban,Firefox,Premium,Basic,Clothing,Referral
+630,A,4,2.509694912535303,Mobile,48,Rural,Safari,Free,Basic,Books,Referral
+1,B,5,16.002298157068644,Desktop,69,Rural,Chrome,Free,Enterprise,Electronics,Referral
+317,B,1,18.04452678127316,Desktop,51,Suburban,Chrome,Free,Enterprise,Books,Referral
+707,B,2,16.310334045433628,Desktop,49,Rural,Chrome,Free,Enterprise,Clothing,Referral
+548,A,1,5.252191411228164,Mobile,52,Urban,Chrome,Free,Basic,Clothing,Referral
+873,A,4,13.245752849617627,Mobile,32,Rural,Firefox,Premium,Pro,Electronics,Paid Ads
+533,A,1,3.9082611997445937,Mobile,49,Suburban,Chrome,Premium,Basic,Books,Referral
+478,B,3,21.848505538270924,Desktop,23,Rural,Firefox,Free,Basic,Books,Referral
+405,B,1,9.569727089409568,Mobile,62,Urban,Chrome,Premium,Pro,Electronics,Paid Ads
+173,B,2,21.27701804729948,Mobile,38,Urban,Firefox,Premium,Pro,Clothing,Social Media
+126,A,5,19.72934821842073,Mobile,50,Suburban,Firefox,Premium,Pro,Clothing,Referral
+395,A,4,10.49704823731969,Mobile,49,Suburban,Firefox,Premium,Pro,Books,Paid Ads
+421,B,3,9.336075243661274,Mobile,69,Suburban,Chrome,Free,Basic,Books,Paid Ads
+553,A,3,16.751851081931694,Desktop,36,Urban,Firefox,Premium,Enterprise,Books,Social Media
+904,A,5,10.778379814084643,Desktop,50,Rural,Safari,Premium,Basic,Books,Referral
+91,A,3,15.512423210791038,Desktop,45,Rural,Safari,Premium,Pro,Books,Referral
+940,A,2,12.585862045965408,Desktop,48,Suburban,Chrome,Free,Enterprise,Clothing,Referral
+182,B,1,6.0942079276718335,Mobile,38,Rural,Safari,Premium,Enterprise,Clothing,Paid Ads
+275,A,2,3.847659904377705,Desktop,51,Rural,Safari,Free,Basic,Clothing,Referral
+896,A,1,16.133421242472984,Desktop,32,Suburban,Safari,Free,Basic,Clothing,Referral
+70,A,2,12.192211268346874,Desktop,31,Suburban,Chrome,Free,Basic,Electronics,Referral
+292,A,1,12.234550915429338,Mobile,36,Urban,Chrome,Free,Enterprise,Clothing,Referral
+132,B,3,18.47931919546893,Desktop,60,Urban,Safari,Premium,Enterprise,Electronics,Social Media
+301,B,3,20.867211383162225,Mobile,32,Urban,Chrome,Free,Enterprise,Clothing,Social Media
+425,A,6,13.637276393190954,Mobile,23,Urban,Firefox,Free,Pro,Books,Social Media
+327,A,5,13.297006465450693,Mobile,69,Rural,Safari,Free,Pro,Books,Referral
+145,A,6,17.50071516556942,Desktop,26,Rural,Chrome,Free,Basic,Books,Referral
+424,A,1,8.215322151502123,Mobile,54,Urban,Chrome,Free,Enterprise,Electronics,Paid Ads
+581,A,2,16.115765273738486,Desktop,37,Urban,Safari,Premium,Basic,Clothing,Paid Ads
+136,A,4,17.75942985911077,Desktop,51,Suburban,Chrome,Free,Enterprise,Clothing,Paid Ads
+451,B,2,18.401151042088145,Desktop,55,Rural,Safari,Premium,Basic,Electronics,Referral
+165,A,1,5.316236487487675,Mobile,43,Rural,Chrome,Premium,Pro,Electronics,Social Media
+29,B,4,11.193223650955296,Mobile,35,Urban,Firefox,Free,Enterprise,Electronics,Social Media
+774,B,4,10.608683735882668,Desktop,45,Rural,Safari,Premium,Pro,Electronics,Social Media
+194,A,1,15.499434772046065,Mobile,68,Suburban,Firefox,Premium,Enterprise,Electronics,Referral
+389,B,4,17.40372289883992,Mobile,26,Suburban,Safari,Premium,Basic,Books,Social Media
+853,B,3,22.483552037229906,Mobile,49,Rural,Chrome,Free,Enterprise,Clothing,Paid Ads
+170,B,1,12.525172598159633,Desktop,23,Urban,Firefox,Free,Pro,Electronics,Paid Ads
+706,B,2,12.512137508453929,Mobile,31,Rural,Chrome,Free,Enterprise,Books,Social Media
+141,B,1,20.748360094393735,Mobile,45,Suburban,Safari,Free,Basic,Electronics,Paid Ads
+174,B,2,16.482884692651524,Desktop,41,Urban,Safari,Free,Enterprise,Books,Social Media
+7,A,2,21.33825755593987,Mobile,30,Rural,Safari,Free,Pro,Electronics,Social Media
+746,B,3,16.44364001504918,Desktop,60,Urban,Safari,Free,Basic,Clothing,Paid Ads
+479,B,4,9.214416906433646,Mobile,29,Urban,Safari,Premium,Pro,Electronics,Paid Ads
+74,B,4,8.334358226110968,Mobile,68,Suburban,Firefox,Premium,Enterprise,Electronics,Paid Ads
+911,A,0,7.242438754705354,Mobile,36,Urban,Safari,Free,Pro,Clothing,Paid Ads
+814,B,3,18.310259173792367,Mobile,38,Rural,Chrome,Premium,Enterprise,Clothing,Social Media
+239,A,0,20.942984115435042,Mobile,44,Urban,Firefox,Free,Basic,Electronics,Paid Ads
+146,B,3,24.246810706931903,Mobile,36,Urban,Chrome,Free,Pro,Clothing,Paid Ads
+793,A,1,19.215526661616202,Desktop,41,Rural,Safari,Free,Pro,Clothing,Referral
+235,A,4,20.814192887674928,Mobile,43,Suburban,Chrome,Premium,Enterprise,Books,Paid Ads
+221,B,5,12.099918336731577,Mobile,62,Suburban,Firefox,Free,Pro,Clothing,Paid Ads
+924,B,1,9.217920916280717,Mobile,45,Rural,Firefox,Free,Pro,Clothing,Social Media
+501,A,3,19.250396662087766,Desktop,63,Rural,Firefox,Free,Basic,Electronics,Social Media
+133,B,3,17.088403761197004,Desktop,35,Suburban,Chrome,Free,Enterprise,Electronics,Referral
+991,A,3,15.537221871704462,Desktop,61,Urban,Firefox,Premium,Enterprise,Books,Paid Ads
+775,A,2,16.93685740316495,Mobile,53,Rural,Chrome,Free,Basic,Electronics,Paid Ads
+186,A,3,16.61592741229103,Mobile,59,Urban,Safari,Premium,Basic,Clothing,Paid Ads
+42,A,3,21.419084299267805,Desktop,46,Rural,Safari,Premium,Enterprise,Clothing,Paid Ads
+697,A,4,21.474927924084778,Desktop,34,Suburban,Chrome,Free,Basic,Clothing,Paid Ads
+109,B,3,17.721101761701735,Desktop,21,Urban,Firefox,Free,Basic,Electronics,Paid Ads
+589,A,1,19.22901436281464,Mobile,61,Urban,Chrome,Premium,Basic,Clothing,Referral
+57,A,2,17.57031276212388,Desktop,62,Rural,Chrome,Premium,Enterprise,Clothing,Paid Ads
+406,B,4,12.694151339826906,Mobile,46,Urban,Chrome,Premium,Basic,Books,Paid Ads
+443,A,1,18.7828233745657,Mobile,21,Rural,Safari,Premium,Pro,Books,Paid Ads
+758,B,4,8.027524655703692,Mobile,27,Suburban,Chrome,Free,Pro,Books,Referral
+998,B,2,20.269457761479416,Desktop,42,Urban,Safari,Premium,Enterprise,Electronics,Paid Ads
+25,B,1,9.027385301169824,Mobile,48,Rural,Chrome,Premium,Basic,Clothing,Referral
+468,A,5,16.429016433973665,Desktop,20,Urban,Safari,Premium,Pro,Clothing,Social Media
+540,A,6,10.774230207869206,Desktop,64,Rural,Chrome,Premium,Enterprise,Clothing,Paid Ads
+532,A,1,17.766944915372132,Desktop,19,Rural,Chrome,Free,Pro,Books,Referral
+619,B,7,14.830373870360456,Desktop,42,Rural,Firefox,Free,Basic,Clothing,Social Media
+695,A,4,7.026220209183336,Mobile,66,Suburban,Firefox,Free,Enterprise,Clothing,Referral
+927,B,3,17.103498155092396,Mobile,23,Urban,Chrome,Premium,Pro,Clothing,Referral
+339,A,3,12.110396115836448,Mobile,43,Suburban,Chrome,Premium,Enterprise,Clothing,Social Media
+52,B,0,19.405733604066846,Mobile,25,Rural,Chrome,Free,Pro,Clothing,Paid Ads
+508,A,3,15.006628443672037,Desktop,52,Rural,Chrome,Free,Pro,Electronics,Paid Ads
+517,A,3,16.977104926940193,Desktop,44,Suburban,Firefox,Premium,Basic,Clothing,Referral
+921,A,1,10.212155224923938,Desktop,42,Suburban,Safari,Free,Basic,Electronics,Social Media
+782,B,0,12.053338842863191,Desktop,35,Urban,Chrome,Premium,Pro,Clothing,Paid Ads
+265,B,2,12.706806819494577,Mobile,18,Rural,Firefox,Premium,Enterprise,Electronics,Referral
+818,A,4,19.28351240121278,Desktop,65,Suburban,Chrome,Premium,Enterprise,Clothing,Social Media
+711,A,6,23.386885439027445,Mobile,56,Rural,Chrome,Premium,Basic,Clothing,Referral
+683,B,3,10.974141241285619,Desktop,20,Rural,Safari,Premium,Pro,Clothing,Social Media
+833,B,3,20.3842407232884,Desktop,21,Urban,Chrome,Premium,Basic,Clothing,Paid Ads
+519,B,2,4.1516129113714895,Desktop,58,Urban,Chrome,Free,Pro,Books,Paid Ads
+448,A,1,9.029052994538553,Desktop,54,Urban,Safari,Free,Pro,Clothing,Referral
+19,B,0,10.206107719066127,Mobile,68,Suburban,Safari,Free,Basic,Electronics,Paid Ads
+716,A,2,8.23745655279639,Mobile,32,Rural,Safari,Premium,Enterprise,Books,Paid Ads
+484,B,6,7.0820580510621,Mobile,25,Suburban,Safari,Free,Basic,Books,Social Media
+569,A,6,17.064994560688987,Mobile,55,Suburban,Firefox,Premium,Pro,Clothing,Paid Ads
+434,B,3,13.929661511360694,Desktop,67,Urban,Firefox,Premium,Basic,Electronics,Social Media
+368,B,3,16.897026988025548,Desktop,36,Rural,Firefox,Premium,Enterprise,Electronics,Social Media
+84,B,2,18.452363430607566,Mobile,64,Rural,Chrome,Premium,Enterprise,Books,Referral
+62,B,5,16.32808496586267,Mobile,43,Urban,Safari,Free,Pro,Electronics,Social Media
+639,B,3,18.28881588075187,Desktop,56,Rural,Safari,Free,Basic,Clothing,Paid Ads
+273,A,2,14.652338568788654,Desktop,27,Urban,Firefox,Free,Enterprise,Clothing,Social Media
+286,B,2,9.065033058471275,Mobile,55,Suburban,Chrome,Premium,Basic,Clothing,Social Media
+361,B,2,20.28907090410398,Mobile,31,Suburban,Chrome,Free,Enterprise,Clothing,Referral
+355,B,3,12.054439336094365,Mobile,66,Urban,Chrome,Free,Pro,Clothing,Paid Ads
+457,A,1,10.32201850618787,Desktop,58,Suburban,Firefox,Free,Pro,Books,Paid Ads
+279,B,6,14.110410620978008,Mobile,36,Suburban,Chrome,Premium,Basic,Clothing,Paid Ads
+13,A,4,10.435945403517435,Mobile,47,Urban,Chrome,Free,Pro,Clothing,Social Media
+183,B,6,12.912848090052838,Mobile,22,Suburban,Chrome,Premium,Enterprise,Books,Paid Ads
+369,B,2,16.720269607817333,Mobile,48,Rural,Safari,Free,Pro,Books,Paid Ads
+882,A,5,16.741708696230635,Mobile,24,Suburban,Firefox,Premium,Enterprise,Books,Social Media
+616,B,2,10.510849667871852,Desktop,36,Urban,Safari,Free,Enterprise,Electronics,Referral
+224,A,3,12.561473135256277,Mobile,48,Rural,Safari,Free,Pro,Electronics,Referral
+573,A,6,20.371665023851218,Desktop,69,Rural,Firefox,Free,Enterprise,Clothing,Social Media
+971,B,6,17.482000588669706,Mobile,56,Suburban,Safari,Premium,Enterprise,Clothing,Referral
+654,A,5,25.375325196742708,Mobile,41,Rural,Chrome,Free,Basic,Clothing,Referral
+546,B,4,20.90064086870764,Mobile,51,Urban,Chrome,Free,Basic,Electronics,Referral
+583,B,3,20.721465342799696,Desktop,40,Rural,Chrome,Premium,Basic,Clothing,Paid Ads
+634,A,1,8.06065724772099,Desktop,65,Suburban,Chrome,Premium,Pro,Clothing,Referral
+177,A,4,18.819301758167114,Desktop,62,Suburban,Firefox,Premium,Basic,Electronics,Paid Ads
+666,A,3,14.734465991515446,Mobile,57,Rural,Safari,Premium,Enterprise,Books,Referral
+674,A,4,12.245090982308753,Mobile,23,Urban,Safari,Free,Pro,Electronics,Paid Ads
+586,B,2,15.840076702662643,Desktop,55,Urban,Chrome,Free,Pro,Clothing,Social Media
+874,B,2,19.726057673057415,Desktop,58,Suburban,Chrome,Premium,Pro,Electronics,Social Media
+394,A,4,17.504157955021057,Mobile,53,Suburban,Safari,Free,Pro,Books,Referral
+164,B,4,10.607630993289701,Desktop,44,Urban,Firefox,Premium,Enterprise,Books,Paid Ads
+249,B,1,18.712294567963102,Mobile,28,Rural,Safari,Free,Enterprise,Books,Social Media
+635,B,2,11.812062289620181,Desktop,22,Rural,Chrome,Premium,Basic,Books,Social Media
+886,B,4,16.08341559482143,Desktop,34,Rural,Chrome,Free,Pro,Books,Social Media
+670,A,2,13.483249662614329,Desktop,69,Rural,Firefox,Premium,Basic,Books,Social Media
+376,A,3,13.905668741321872,Mobile,24,Urban,Safari,Premium,Enterprise,Clothing,Referral
+413,B,5,18.831214875202548,Mobile,44,Suburban,Firefox,Free,Pro,Clothing,Paid Ads
+75,A,2,9.79903140092051,Desktop,64,Suburban,Firefox,Free,Enterprise,Electronics,Social Media
+114,A,2,24.725975371384664,Mobile,32,Rural,Chrome,Free,Basic,Clothing,Referral
+599,A,2,5.894569653527518,Mobile,63,Urban,Safari,Premium,Enterprise,Books,Social Media
+962,B,2,12.011661583725715,Mobile,30,Urban,Chrome,Free,Pro,Clothing,Social Media
+391,B,4,16.851059449708703,Mobile,28,Rural,Safari,Premium,Pro,Electronics,Social Media
+105,B,2,17.92157083217655,Desktop,62,Rural,Chrome,Free,Basic,Books,Social Media
+115,A,2,14.49762139714147,Mobile,43,Rural,Chrome,Free,Pro,Clothing,Referral
+418,B,3,14.713046484992285,Mobile,39,Suburban,Safari,Premium,Enterprise,Clothing,Paid Ads
+526,B,2,17.052750426638084,Desktop,45,Rural,Safari,Premium,Enterprise,Electronics,Referral
+458,A,2,13.844652612711599,Mobile,41,Suburban,Chrome,Free,Enterprise,Books,Referral
+410,B,2,21.96590628967453,Mobile,46,Urban,Safari,Premium,Enterprise,Electronics,Referral
+93,B,5,19.19674557115801,Mobile,26,Urban,Chrome,Premium,Basic,Books,Social Media
+931,A,4,19.364121755028172,Desktop,59,Suburban,Safari,Free,Enterprise,Books,Paid Ads
+90,A,4,10.169216383147914,Desktop,21,Suburban,Chrome,Premium,Basic,Clothing,Social Media
+337,A,4,14.603057877971485,Mobile,66,Suburban,Chrome,Free,Enterprise,Electronics,Referral
+989,B,4,13.497670256396482,Mobile,63,Suburban,Chrome,Free,Basic,Electronics,Social Media
+922,B,4,9.971993121552671,Desktop,35,Rural,Firefox,Premium,Enterprise,Electronics,Paid Ads
+934,B,0,16.800820919728835,Desktop,60,Urban,Safari,Free,Enterprise,Books,Paid Ads
+606,A,1,12.311771211100918,Desktop,33,Rural,Chrome,Premium,Basic,Electronics,Social Media
+594,A,4,18.277019149251185,Mobile,50,Suburban,Firefox,Free,Pro,Books,Referral
+612,B,1,9.64904218552834,Mobile,46,Rural,Chrome,Premium,Pro,Electronics,Social Media
+95,B,4,23.595203064209105,Desktop,56,Rural,Firefox,Premium,Pro,Electronics,Referral
+12,A,1,10.51833670703969,Mobile,27,Urban,Chrome,Premium,Basic,Clothing,Paid Ads
+397,A,2,16.09651168600218,Mobile,26,Rural,Chrome,Premium,Pro,Electronics,Social Media
+534,A,2,18.959296551940337,Mobile,48,Urban,Firefox,Premium,Pro,Clothing,Paid Ads
+44,A,1,12.146797848999435,Mobile,45,Suburban,Firefox,Free,Basic,Clothing,Referral
+43,B,4,19.26234321716475,Mobile,20,Rural,Safari,Free,Pro,Books,Referral
+330,A,7,8.854082010997919,Mobile,31,Suburban,Safari,Premium,Pro,Electronics,Social Media
+168,B,3,22.260588495912803,Mobile,42,Urban,Firefox,Free,Pro,Electronics,Social Media
+498,B,4,15.070746324828791,Desktop,32,Suburban,Safari,Premium,Basic,Electronics,Social Media
+877,B,5,12.017942960155601,Desktop,19,Suburban,Firefox,Premium,Basic,Clothing,Paid Ads
+598,A,3,13.504091137862828,Desktop,41,Urban,Safari,Free,Pro,Electronics,Referral
+757,A,2,19.044596346963598,Desktop,31,Suburban,Chrome,Free,Pro,Books,Referral
+101,A,3,12.077723540747808,Desktop,65,Suburban,Safari,Premium,Basic,Books,Paid Ads
+427,A,2,11.253211552886112,Desktop,24,Suburban,Chrome,Premium,Pro,Electronics,Social Media
+179,B,2,13.892317012081309,Desktop,53,Rural,Chrome,Premium,Basic,Clothing,Social Media
+445,A,4,9.11518943615016,Desktop,67,Suburban,Safari,Premium,Pro,Books,Paid Ads
+417,A,1,24.102719539709078,Desktop,41,Urban,Firefox,Premium,Basic,Books,Referral
+871,B,5,12.168027043926383,Mobile,44,Rural,Chrome,Premium,Enterprise,Clothing,Referral
+883,A,2,19.158083930902016,Mobile,54,Rural,Chrome,Free,Enterprise,Books,Referral
+681,B,3,16.047350418238864,Desktop,55,Urban,Safari,Premium,Basic,Clothing,Referral
+178,B,6,10.07732974759016,Mobile,47,Suburban,Firefox,Premium,Enterprise,Books,Paid Ads
+396,B,3,14.970226453936354,Mobile,44,Rural,Firefox,Free,Pro,Clothing,Referral
+912,B,3,18.92001389655374,Desktop,56,Rural,Safari,Premium,Basic,Books,Paid Ads
+794,B,7,14.058693324568468,Desktop,32,Rural,Firefox,Premium,Basic,Electronics,Social Media
+961,B,3,20.965564729255142,Desktop,43,Suburban,Safari,Free,Pro,Books,Paid Ads
+685,B,1,20.10757696390932,Mobile,18,Rural,Safari,Premium,Pro,Books,Referral
+384,B,0,19.594574273291645,Mobile,21,Urban,Safari,Free,Basic,Electronics,Social Media
+957,A,3,12.701716138635016,Desktop,46,Suburban,Chrome,Premium,Pro,Electronics,Paid Ads
+752,A,1,9.600787761092565,Mobile,18,Urban,Chrome,Free,Basic,Electronics,Paid Ads
+258,A,2,11.932061973186027,Mobile,60,Urban,Chrome,Free,Pro,Electronics,Paid Ads
+539,A,1,15.981204703333603,Mobile,67,Rural,Safari,Free,Basic,Clothing,Social Media
+336,B,3,17.728933567661777,Desktop,63,Rural,Chrome,Premium,Pro,Clothing,Paid Ads
+16,A,1,4.142142976197762,Mobile,39,Rural,Chrome,Premium,Pro,Books,Referral
+325,B,2,14.959433991941248,Mobile,28,Urban,Chrome,Free,Enterprise,Books,Social Media
+759,A,4,15.790446126615922,Mobile,27,Suburban,Safari,Free,Enterprise,Books,Social Media
+223,A,3,13.612278718422242,Mobile,34,Rural,Safari,Premium,Enterprise,Clothing,Paid Ads
+180,A,4,21.456369195079393,Mobile,53,Rural,Safari,Premium,Pro,Books,Referral
+984,B,2,17.108900371254354,Mobile,64,Urban,Chrome,Premium,Basic,Books,Social Media
+23,A,2,21.550959540404484,Mobile,43,Suburban,Firefox,Premium,Pro,Clothing,Paid Ads
+357,B,3,13.920197398248838,Desktop,65,Urban,Chrome,Premium,Enterprise,Books,Referral
+667,B,1,19.687387462534623,Desktop,38,Rural,Chrome,Free,Pro,Clothing,Paid Ads
+862,A,2,23.175331972637597,Mobile,30,Urban,Safari,Premium,Enterprise,Clothing,Paid Ads
+341,A,4,21.558467246363307,Desktop,26,Rural,Safari,Free,Enterprise,Electronics,Social Media
+432,A,6,9.539292032856334,Mobile,28,Suburban,Chrome,Premium,Basic,Electronics,Social Media
+552,B,4,13.731619612288096,Mobile,28,Urban,Chrome,Free,Basic,Clothing,Paid Ads
+834,A,1,13.274176472751018,Mobile,23,Rural,Firefox,Free,Enterprise,Clothing,Social Media
+204,B,4,17.44627267538164,Desktop,18,Rural,Firefox,Premium,Enterprise,Electronics,Social Media
+631,B,4,18.431767775072665,Mobile,23,Rural,Safari,Free,Pro,Books,Referral
+94,A,1,10.805536629871318,Mobile,30,Rural,Firefox,Free,Enterprise,Books,Referral
+559,A,5,15.339192569584688,Desktop,39,Urban,Firefox,Free,Pro,Books,Paid Ads
+69,B,2,4.900363339219318,Desktop,48,Rural,Safari,Free,Enterprise,Clothing,Paid Ads
+623,B,1,22.209725029009448,Mobile,39,Urban,Firefox,Premium,Basic,Electronics,Paid Ads
+285,B,4,12.438128796616532,Desktop,54,Rural,Chrome,Free,Basic,Books,Paid Ads
+845,A,3,15.279319699222485,Desktop,64,Urban,Firefox,Premium,Enterprise,Electronics,Referral
+435,B,3,13.451751430059696,Mobile,44,Urban,Safari,Free,Pro,Electronics,Social Media
+154,A,6,20.730137875067076,Mobile,67,Rural,Chrome,Premium,Pro,Clothing,Referral
+76,B,4,0.8124677930131052,Mobile,69,Rural,Firefox,Premium,Pro,Books,Paid Ads
+731,B,9,14.916948288370454,Desktop,31,Rural,Chrome,Premium,Enterprise,Electronics,Paid Ads
+447,A,3,14.47090621251151,Desktop,64,Rural,Chrome,Free,Enterprise,Clothing,Referral
+189,B,2,12.731818062041587,Desktop,22,Suburban,Firefox,Premium,Basic,Clothing,Referral
+272,A,3,23.631132728178162,Mobile,53,Rural,Firefox,Premium,Basic,Clothing,Paid Ads
+237,A,2,10.563352705721144,Desktop,49,Rural,Safari,Free,Enterprise,Books,Social Media
+488,B,5,18.858980886178305,Desktop,51,Rural,Safari,Premium,Basic,Books,Paid Ads
+118,A,4,16.78126394353042,Mobile,24,Urban,Chrome,Free,Pro,Clothing,Referral
+944,A,3,21.307596262677578,Mobile,59,Rural,Safari,Free,Pro,Books,Paid Ads
+513,B,5,11.664054576112473,Mobile,65,Urban,Chrome,Premium,Enterprise,Books,Paid Ads
+826,A,3,11.335155504381206,Desktop,27,Urban,Chrome,Free,Pro,Electronics,Social Media
+592,A,1,20.480349537386992,Mobile,67,Urban,Safari,Free,Enterprise,Clothing,Paid Ads
+127,A,3,17.126606541650553,Desktop,34,Urban,Safari,Free,Pro,Clothing,Paid Ads
+117,B,7,7.275313266616207,Desktop,47,Suburban,Safari,Premium,Enterprise,Books,Paid Ads
+474,A,3,12.303474927683649,Mobile,38,Rural,Firefox,Free,Pro,Clothing,Referral
+694,B,2,16.931913269240304,Mobile,30,Urban,Chrome,Free,Pro,Clothing,Referral
+58,B,5,19.188821107732945,Mobile,18,Rural,Chrome,Free,Basic,Clothing,Social Media
+864,A,2,11.603846734035224,Mobile,18,Urban,Chrome,Premium,Basic,Books,Paid Ads
+913,A,4,0.4287200509152944,Mobile,64,Suburban,Safari,Free,Basic,Books,Referral
+370,A,1,17.616115928685165,Desktop,50,Urban,Safari,Premium,Basic,Books,Social Media
+269,B,3,8.898396550280122,Desktop,55,Rural,Safari,Free,Basic,Electronics,Paid Ads
+47,A,8,4.913306009387943,Desktop,42,Rural,Safari,Premium,Basic,Clothing,Social Media
+350,A,3,0.8383703750792959,Mobile,43,Suburban,Safari,Premium,Enterprise,Electronics,Social Media
+196,A,5,19.069904300988707,Desktop,30,Rural,Firefox,Premium,Enterprise,Books,Social Media
+1000,A,6,15.643087252024833,Mobile,45,Rural,Safari,Free,Basic,Electronics,Social Media
+835,A,5,13.871718096438741,Mobile,50,Urban,Chrome,Free,Enterprise,Clothing,Social Media
+737,B,4,21.94512181481381,Desktop,54,Rural,Safari,Free,Basic,Clothing,Social Media
+264,B,3,18.186623415115363,Desktop,58,Urban,Chrome,Premium,Enterprise,Books,Social Media
+444,A,4,23.081500213609583,Mobile,47,Suburban,Safari,Free,Pro,Books,Paid Ads
+676,A,0,8.036322639165018,Desktop,66,Rural,Safari,Free,Enterprise,Electronics,Paid Ads
+305,A,8,14.827246880230183,Mobile,65,Urban,Chrome,Premium,Enterprise,Books,Social Media
+342,A,2,6.916433125259928,Desktop,25,Rural,Chrome,Free,Enterprise,Electronics,Paid Ads
+967,B,4,13.853088340722664,Desktop,66,Urban,Chrome,Free,Pro,Clothing,Social Media
+150,A,0,13.756920731166614,Desktop,64,Suburban,Chrome,Premium,Basic,Clothing,Paid Ads
+125,B,1,18.133068186315352,Desktop,18,Urban,Firefox,Premium,Enterprise,Clothing,Referral
+787,B,7,15.227819405709491,Desktop,29,Rural,Chrome,Free,Enterprise,Clothing,Social Media
+51,A,4,18.11703569139958,Mobile,22,Urban,Safari,Premium,Pro,Clothing,Referral
+354,B,5,18.51720066569447,Desktop,41,Rural,Safari,Free,Basic,Electronics,Social Media
+928,B,1,25.77464338691571,Desktop,23,Suburban,Firefox,Free,Enterprise,Clothing,Social Media
+143,B,5,13.423516723569378,Desktop,42,Urban,Chrome,Free,Pro,Electronics,Referral
+471,B,1,10.294886496668104,Mobile,18,Rural,Safari,Free,Basic,Clothing,Referral
+400,A,2,16.230418076582044,Mobile,42,Rural,Firefox,Free,Basic,Electronics,Referral
+626,A,1,10.988599864302282,Mobile,18,Rural,Safari,Premium,Enterprise,Electronics,Social Media
+321,B,4,22.40980384218268,Mobile,49,Urban,Firefox,Premium,Enterprise,Electronics,Referral
+20,A,3,13.583909805273837,Mobile,59,Urban,Firefox,Free,Enterprise,Books,Referral
+810,A,1,12.172118160630049,Desktop,59,Urban,Chrome,Premium,Enterprise,Electronics,Paid Ads
+791,A,3,12.643421394244411,Desktop,20,Suburban,Firefox,Premium,Pro,Electronics,Paid Ads
+809,A,2,18.592087117358204,Desktop,66,Rural,Safari,Free,Pro,Clothing,Referral
+408,A,2,14.211265083842573,Mobile,36,Rural,Safari,Premium,Enterprise,Electronics,Referral
+538,B,1,11.79166589934809,Mobile,60,Suburban,Chrome,Premium,Basic,Electronics,Referral
+621,A,3,23.326759588117653,Desktop,46,Suburban,Chrome,Free,Enterprise,Books,Referral
+39,A,2,10.719150796691249,Mobile,67,Urban,Firefox,Free,Basic,Clothing,Paid Ads
+176,A,3,15.177830370164967,Mobile,19,Urban,Chrome,Free,Basic,Books,Social Media
+246,A,3,18.26153075805115,Mobile,26,Urban,Safari,Free,Basic,Books,Referral
+829,B,5,6.843324447914634,Desktop,34,Urban,Safari,Free,Pro,Books,Referral
+668,B,6,17.401302507029623,Desktop,63,Urban,Chrome,Free,Basic,Electronics,Paid Ads
+755,B,3,9.724461622597753,Mobile,53,Urban,Chrome,Free,Basic,Books,Referral
+859,B,5,19.113913904170012,Mobile,34,Suburban,Chrome,Premium,Pro,Books,Referral
+155,A,2,10.186744940405118,Mobile,66,Suburban,Firefox,Free,Basic,Clothing,Paid Ads
+288,B,2,18.463845159244304,Mobile,29,Suburban,Firefox,Premium,Basic,Clothing,Referral
+603,A,4,20.529165331473564,Desktop,37,Rural,Safari,Premium,Enterprise,Clothing,Referral
+570,A,3,19.307182628164025,Mobile,67,Rural,Firefox,Free,Basic,Clothing,Paid Ads
+744,A,2,16.256583241190512,Desktop,20,Urban,Firefox,Premium,Basic,Books,Social Media
+18,A,1,13.843495285351501,Desktop,60,Suburban,Firefox,Premium,Basic,Clothing,Referral
+128,A,5,12.11790211832578,Desktop,67,Rural,Firefox,Premium,Basic,Electronics,Referral
+323,B,3,22.35517345408552,Mobile,21,Rural,Safari,Free,Basic,Books,Social Media
+256,B,4,11.502523899161783,Desktop,34,Suburban,Chrome,Premium,Pro,Clothing,Paid Ads
+658,B,1,9.81466963215002,Desktop,67,Rural,Safari,Premium,Basic,Books,Social Media
+965,B,3,18.32684467516415,Mobile,54,Rural,Firefox,Free,Basic,Clothing,Referral
+191,A,4,11.019315984067523,Mobile,63,Suburban,Chrome,Premium,Pro,Books,Social Media
+116,B,2,10.249682512669363,Mobile,59,Rural,Chrome,Premium,Pro,Clothing,Paid Ads
+617,A,2,7.781978689151176,Desktop,32,Suburban,Chrome,Premium,Basic,Electronics,Referral
+607,B,2,12.585450802697412,Mobile,50,Rural,Safari,Premium,Basic,Clothing,Paid Ads
+181,A,4,14.586424880517534,Desktop,33,Suburban,Chrome,Premium,Basic,Books,Paid Ads
+302,A,5,16.215458638303495,Desktop,28,Rural,Safari,Free,Enterprise,Books,Social Media
+760,B,2,19.75653122149742,Mobile,37,Rural,Safari,Premium,Enterprise,Electronics,Social Media
+713,A,2,17.634489618328967,Desktop,55,Suburban,Firefox,Free,Basic,Books,Paid Ads
+724,A,4,14.045638902234101,Desktop,41,Rural,Firefox,Premium,Pro,Electronics,Paid Ads
+686,B,0,14.0090216181014,Desktop,33,Suburban,Chrome,Free,Basic,Books,Referral
+980,A,3,17.550787344575916,Desktop,47,Suburban,Chrome,Free,Pro,Books,Paid Ads
+518,B,0,21.362850814642847,Mobile,51,Rural,Firefox,Free,Pro,Electronics,Paid Ads
+985,B,2,15.631570997416,Desktop,18,Urban,Safari,Premium,Pro,Books,Social Media
+46,B,2,12.654345728947956,Mobile,41,Rural,Safari,Premium,Basic,Books,Paid Ads
+910,A,1,10.035669994572272,Desktop,41,Urban,Firefox,Premium,Basic,Electronics,Paid Ads
+158,A,4,7.773973677938873,Desktop,26,Urban,Safari,Premium,Pro,Clothing,Social Media
+852,A,5,18.331348360217614,Mobile,39,Rural,Firefox,Premium,Enterprise,Electronics,Referral
+172,B,1,17.889892618197784,Desktop,29,Urban,Firefox,Free,Enterprise,Books,Social Media
+17,A,4,17.886817625533308,Desktop,34,Suburban,Chrome,Free,Enterprise,Clothing,Social Media
+512,B,0,14.356702768239721,Desktop,42,Suburban,Chrome,Free,Pro,Clothing,Paid Ads
+49,B,6,22.034673729458753,Desktop,45,Urban,Firefox,Premium,Basic,Clothing,Paid Ads
+972,A,5,12.579407527075912,Desktop,32,Suburban,Chrome,Premium,Pro,Electronics,Referral
+941,B,1,19.776346186036026,Desktop,47,Rural,Firefox,Free,Enterprise,Clothing,Paid Ads
+516,A,5,14.806285525052285,Mobile,68,Suburban,Safari,Premium,Basic,Clothing,Referral
+953,A,1,11.958246176603312,Mobile,44,Urban,Safari,Premium,Pro,Clothing,Referral
+481,A,4,17.962651536588808,Mobile,39,Rural,Safari,Free,Pro,Books,Referral
+284,A,2,17.048180593419968,Desktop,27,Suburban,Safari,Free,Enterprise,Electronics,Referral
+719,A,1,16.78486379633463,Desktop,48,Rural,Firefox,Premium,Pro,Electronics,Paid Ads
+878,B,3,15.406392110280994,Desktop,44,Urban,Safari,Premium,Basic,Books,Social Media
+226,B,3,14.810534591415845,Mobile,29,Suburban,Safari,Free,Enterprise,Clothing,Social Media
+27,B,6,26.941859964352194,Desktop,63,Rural,Safari,Premium,Enterprise,Books,Paid Ads
+955,A,0,20.921283225980865,Mobile,48,Rural,Safari,Free,Basic,Books,Paid Ads
+438,A,3,18.61413447492756,Desktop,49,Suburban,Firefox,Free,Enterprise,Clothing,Referral
+952,A,5,15.558995791016942,Desktop,49,Rural,Safari,Free,Pro,Clothing,Paid Ads
+365,B,1,20.035786002983347,Desktop,58,Rural,Chrome,Premium,Pro,Electronics,Social Media
+230,A,3,17.58997388195726,Mobile,62,Urban,Chrome,Free,Enterprise,Clothing,Paid Ads
+38,B,4,15.131023763870179,Desktop,52,Urban,Chrome,Free,Basic,Books,Paid Ads
+966,B,2,13.482178373670427,Mobile,63,Urban,Chrome,Premium,Pro,Books,Referral
+375,A,3,14.59541331168656,Desktop,38,Urban,Chrome,Free,Basic,Clothing,Referral
+470,A,7,-0.8521286793902783,Desktop,27,Urban,Chrome,Premium,Pro,Electronics,Referral
+968,B,1,16.05300419648821,Mobile,33,Urban,Firefox,Premium,Pro,Books,Referral
+851,A,3,12.557619599448202,Desktop,24,Suburban,Chrome,Premium,Enterprise,Clothing,Social Media
+705,B,3,22.96334999141442,Desktop,21,Urban,Safari,Free,Enterprise,Electronics,Paid Ads
+842,A,1,15.096720354058771,Desktop,44,Rural,Chrome,Free,Basic,Electronics,Paid Ads
+195,A,1,9.05518290232519,Desktop,69,Suburban,Firefox,Premium,Enterprise,Books,Referral
+855,B,2,14.75059922935941,Mobile,42,Rural,Chrome,Premium,Pro,Books,Social Media
+865,A,2,9.769394574687478,Mobile,48,Urban,Safari,Premium,Pro,Electronics,Social Media
+504,B,6,17.367037078562333,Desktop,28,Urban,Safari,Free,Basic,Electronics,Paid Ads
+970,A,1,16.454736821697427,Desktop,65,Rural,Firefox,Premium,Basic,Electronics,Referral
+831,B,3,19.78919815554134,Mobile,37,Rural,Firefox,Premium,Pro,Clothing,Paid Ads
+580,B,3,11.045591041527173,Desktop,53,Rural,Firefox,Premium,Enterprise,Books,Paid Ads
+969,A,4,15.170040481140735,Mobile,34,Suburban,Firefox,Free,Enterprise,Electronics,Social Media
+163,B,2,8.174891022866824,Desktop,62,Urban,Chrome,Premium,Basic,Books,Social Media
+909,A,3,18.507473909623574,Mobile,28,Rural,Chrome,Free,Basic,Books,Paid Ads
+153,A,4,17.59435590220061,Mobile,47,Urban,Safari,Free,Pro,Books,Referral
+802,A,2,17.479025105137854,Mobile,52,Rural,Firefox,Premium,Pro,Electronics,Referral
+994,B,3,15.008095156784705,Mobile,58,Urban,Firefox,Premium,Basic,Clothing,Paid Ads
+756,B,2,17.073864453943955,Desktop,55,Suburban,Chrome,Premium,Pro,Electronics,Paid Ads
+112,A,4,23.021695541542982,Desktop,39,Urban,Firefox,Free,Basic,Books,Referral
+227,A,1,13.57452871478993,Mobile,60,Rural,Safari,Free,Basic,Electronics,Referral
+689,B,3,15.693225918550423,Mobile,65,Urban,Safari,Free,Enterprise,Electronics,Referral
+104,A,5,9.569368504092951,Mobile,68,Suburban,Firefox,Premium,Basic,Books,Paid Ads
+422,A,2,10.658695192008338,Mobile,44,Suburban,Safari,Free,Pro,Books,Social Media
+420,B,4,15.489066465466538,Desktop,54,Urban,Safari,Premium,Enterprise,Electronics,Referral
+751,A,2,20.519667733509536,Mobile,63,Rural,Chrome,Premium,Enterprise,Electronics,Referral
+587,B,1,13.718595878742137,Mobile,66,Suburban,Safari,Premium,Pro,Electronics,Referral
+781,A,3,13.82041735343938,Mobile,52,Suburban,Firefox,Free,Pro,Electronics,Paid Ads
+673,B,4,12.965573777478127,Mobile,21,Urban,Firefox,Free,Pro,Clothing,Social Media
+120,A,7,12.326216645778384,Mobile,33,Suburban,Safari,Free,Basic,Electronics,Social Media
+54,A,4,16.474857278544107,Mobile,33,Suburban,Firefox,Premium,Enterprise,Clothing,Referral
+152,B,6,7.513711774106778,Mobile,38,Rural,Chrome,Free,Basic,Books,Paid Ads
+404,A,4,21.404697883333636,Desktop,43,Rural,Safari,Free,Basic,Clothing,Social Media
+946,B,1,11.672888509352697,Mobile,53,Rural,Safari,Premium,Basic,Books,Paid Ads
+208,A,1,18.609517427190706,Mobile,36,Urban,Safari,Premium,Basic,Clothing,Social Media
+659,B,7,8.65000701303062,Mobile,34,Suburban,Firefox,Free,Enterprise,Books,Referral
+844,B,4,18.34420065273109,Desktop,62,Urban,Firefox,Premium,Enterprise,Electronics,Paid Ads
+763,B,3,18.359723039072488,Desktop,43,Suburban,Safari,Free,Basic,Clothing,Referral
+9,B,3,16.921010360029484,Desktop,39,Suburban,Firefox,Premium,Pro,Clothing,Social Media
+808,A,3,10.027857391001039,Mobile,45,Suburban,Firefox,Premium,Enterprise,Books,Social Media
+37,A,3,16.247740947990383,Mobile,18,Rural,Safari,Free,Basic,Books,Referral
+453,B,1,9.084719076328055,Mobile,61,Urban,Safari,Premium,Pro,Clothing,Social Media
+652,B,1,13.736183724519073,Desktop,53,Urban,Firefox,Premium,Pro,Books,Referral
+254,B,3,20.14706550477663,Mobile,60,Suburban,Safari,Premium,Basic,Electronics,Referral
+304,A,0,18.98350963535371,Desktop,54,Urban,Safari,Free,Enterprise,Clothing,Referral
+747,A,3,15.075914712702165,Desktop,19,Rural,Safari,Premium,Pro,Electronics,Social Media
+572,A,3,10.125967120385791,Desktop,34,Urban,Safari,Premium,Enterprise,Clothing,Paid Ads
+624,A,0,18.227938560870967,Desktop,57,Suburban,Firefox,Free,Enterprise,Electronics,Referral
+733,B,2,15.096906188490125,Desktop,55,Rural,Safari,Free,Pro,Clothing,Paid Ads
+892,B,1,3.3984220088478834,Mobile,38,Rural,Chrome,Premium,Basic,Books,Social Media
+263,B,2,18.91314913158259,Mobile,26,Suburban,Safari,Premium,Pro,Clothing,Social Media
+611,A,4,14.87883583065154,Desktop,30,Urban,Chrome,Premium,Pro,Electronics,Paid Ads
+298,A,4,21.01225623991536,Mobile,28,Suburban,Safari,Free,Enterprise,Clothing,Referral
+415,A,1,9.523647405785976,Mobile,33,Urban,Chrome,Premium,Basic,Electronics,Social Media
+151,B,3,-0.883519065980003,Desktop,33,Urban,Chrome,Free,Enterprise,Electronics,Referral
+789,B,3,16.395419291725926,Desktop,19,Rural,Safari,Free,Pro,Electronics,Referral
+641,A,2,16.45781838340986,Mobile,59,Suburban,Safari,Premium,Basic,Books,Paid Ads
+890,B,2,6.54664186196774,Mobile,61,Rural,Safari,Premium,Basic,Clothing,Social Media
+551,A,3,10.107502270666968,Mobile,25,Suburban,Chrome,Free,Basic,Electronics,Paid Ads
+887,A,2,28.77608871859951,Mobile,60,Suburban,Firefox,Premium,Basic,Books,Social Media
+489,B,3,13.471946929230983,Desktop,59,Rural,Firefox,Premium,Basic,Electronics,Paid Ads
+148,A,2,18.65479488188108,Mobile,30,Suburban,Safari,Free,Pro,Clothing,Social Media
+147,B,1,11.74670086315808,Desktop,34,Suburban,Firefox,Premium,Pro,Books,Social Media
+721,A,0,4.548485505734217,Desktop,56,Urban,Firefox,Free,Pro,Electronics,Social Media
+932,B,3,14.148708766020473,Mobile,41,Suburban,Safari,Premium,Enterprise,Electronics,Referral
+740,B,4,13.671977198569474,Mobile,20,Suburban,Chrome,Free,Basic,Electronics,Referral
+660,B,4,13.000608806658143,Mobile,47,Rural,Safari,Free,Basic,Clothing,Paid Ads
+349,A,3,14.426795822468037,Desktop,69,Rural,Firefox,Premium,Pro,Books,Paid Ads
+464,A,3,16.32134135822818,Desktop,30,Suburban,Chrome,Free,Basic,Books,Social Media
+326,B,6,14.249415243730967,Desktop,36,Urban,Firefox,Free,Enterprise,Books,Social Media
+187,B,4,8.67996916026318,Desktop,24,Urban,Chrome,Premium,Basic,Electronics,Referral
+124,A,4,17.430923957809693,Mobile,26,Rural,Firefox,Premium,Basic,Books,Referral
+854,A,5,5.253141223387884,Desktop,36,Suburban,Safari,Premium,Enterprise,Electronics,Referral
+609,A,1,4.748212713578999,Desktop,62,Suburban,Firefox,Free,Pro,Clothing,Paid Ads
+144,B,4,18.69590247350784,Mobile,57,Urban,Firefox,Free,Pro,Books,Referral
+959,A,2,17.535101360676784,Desktop,39,Urban,Chrome,Free,Basic,Electronics,Paid Ads
+198,A,4,14.71302317462982,Desktop,35,Urban,Firefox,Premium,Enterprise,Books,Referral
+610,B,5,8.02275747622464,Mobile,40,Rural,Safari,Free,Pro,Books,Referral
+280,A,2,11.460445296629624,Desktop,19,Suburban,Safari,Free,Pro,Clothing,Social Media
+294,A,4,13.68626626156748,Desktop,67,Rural,Safari,Premium,Pro,Books,Paid Ads
+401,A,1,7.020530157129432,Desktop,67,Suburban,Chrome,Free,Basic,Clothing,Referral
+123,B,2,11.304856709883836,Desktop,28,Rural,Chrome,Premium,Enterprise,Books,Social Media
+184,B,4,18.2616516908834,Mobile,48,Suburban,Firefox,Premium,Basic,Books,Paid Ads
+203,B,1,22.136526821446083,Desktop,50,Urban,Firefox,Premium,Pro,Books,Paid Ads
+439,B,1,12.902826236707247,Mobile,31,Urban,Firefox,Free,Enterprise,Books,Referral
+247,B,0,18.78244177158049,Desktop,33,Urban,Chrome,Free,Basic,Books,Paid Ads
+416,B,3,5.429699647062663,Mobile,28,Rural,Chrome,Free,Pro,Books,Social Media
+933,B,3,18.297256205568058,Mobile,50,Urban,Firefox,Premium,Pro,Clothing,Social Media
+766,A,4,10.980257926362595,Mobile,24,Suburban,Chrome,Premium,Basic,Clothing,Paid Ads
+907,A,2,16.53672808353985,Desktop,48,Rural,Chrome,Premium,Pro,Electronics,Social Media
+836,B,3,13.761237908801453,Desktop,65,Suburban,Safari,Free,Pro,Books,Paid Ads
+888,A,6,21.60207004891917,Desktop,63,Rural,Safari,Free,Enterprise,Clothing,Social Media
+130,A,2,10.62782175830041,Mobile,64,Suburban,Firefox,Free,Pro,Books,Paid Ads
+638,B,2,18.138031487809155,Desktop,31,Suburban,Firefox,Free,Basic,Books,Paid Ads
+403,A,2,13.602462683517333,Desktop,45,Rural,Safari,Free,Enterprise,Clothing,Paid Ads
+785,A,4,14.20847260995168,Desktop,60,Rural,Chrome,Premium,Basic,Books,Social Media
+771,A,1,14.080730534203951,Desktop,33,Urban,Firefox,Free,Pro,Clothing,Paid Ads
+736,A,4,10.771634477529435,Mobile,36,Urban,Firefox,Premium,Enterprise,Clothing,Paid Ads
+914,A,3,14.929505170466642,Mobile,34,Suburban,Firefox,Premium,Enterprise,Electronics,Referral
+220,B,3,14.686758889390893,Desktop,43,Suburban,Chrome,Free,Enterprise,Electronics,Referral
+642,B,5,16.206201242033647,Desktop,23,Suburban,Safari,Premium,Enterprise,Electronics,Paid Ads
+916,B,3,15.422525728464313,Desktop,60,Rural,Firefox,Free,Basic,Electronics,Referral
+753,A,1,18.98997274806118,Mobile,66,Rural,Safari,Free,Pro,Books,Paid Ads
+807,B,1,19.617543080236842,Desktop,26,Urban,Safari,Premium,Pro,Books,Referral
+920,A,3,9.746883390860994,Mobile,67,Suburban,Chrome,Free,Enterprise,Electronics,Social Media
+625,A,5,19.343862502953854,Mobile,34,Urban,Chrome,Free,Pro,Clothing,Social Media
+875,A,4,9.068317864450728,Desktop,48,Rural,Chrome,Premium,Basic,Clothing,Paid Ads
+761,A,2,17.939279440688676,Desktop,29,Rural,Chrome,Premium,Pro,Clothing,Paid Ads
+387,B,7,18.098693923514343,Desktop,40,Rural,Chrome,Premium,Basic,Clothing,Social Media
+973,B,0,5.44341554168748,Mobile,22,Urban,Chrome,Premium,Basic,Books,Social Media
+510,A,4,15.464896232647048,Mobile,60,Rural,Firefox,Premium,Pro,Clothing,Referral
+268,B,2,12.657519433198422,Desktop,53,Suburban,Safari,Premium,Basic,Clothing,Paid Ads
+820,A,3,11.206173710323124,Mobile,53,Urban,Chrome,Free,Basic,Electronics,Social Media
+442,B,1,21.75426165349503,Desktop,20,Rural,Firefox,Free,Basic,Clothing,Social Media
+497,B,3,11.731604296812906,Desktop,41,Urban,Safari,Free,Basic,Books,Paid Ads
+113,A,1,10.96811535440975,Mobile,34,Urban,Chrome,Premium,Enterprise,Clothing,Referral
+692,B,3,15.378474700025468,Mobile,56,Rural,Chrome,Free,Pro,Clothing,Referral
+233,A,6,18.427948731492084,Mobile,43,Rural,Firefox,Premium,Enterprise,Books,Referral
+870,B,3,14.291757069949366,Mobile,21,Urban,Safari,Free,Basic,Electronics,Referral
+608,A,2,20.83185272834626,Desktop,62,Urban,Chrome,Premium,Pro,Books,Social Media
+672,A,1,17.654878309820454,Desktop,29,Rural,Safari,Free,Basic,Electronics,Paid Ads
+374,B,4,4.108943401342849,Desktop,18,Suburban,Firefox,Premium,Pro,Clothing,Paid Ads
+982,B,4,12.352665182464959,Mobile,38,Urban,Chrome,Premium,Enterprise,Electronics,Social Media
+843,A,3,12.190789503241506,Desktop,36,Urban,Safari,Premium,Pro,Electronics,Social Media
+234,B,1,17.39680476714711,Mobile,38,Suburban,Firefox,Premium,Basic,Electronics,Social Media
+786,B,4,1.8759147181294389,Mobile,69,Rural,Firefox,Free,Pro,Clothing,Paid Ads
+677,A,2,27.745048543588613,Mobile,35,Rural,Chrome,Free,Pro,Electronics,Paid Ads
+318,A,4,17.65513047447105,Desktop,60,Suburban,Safari,Premium,Enterprise,Electronics,Paid Ads
+649,B,1,15.744384019588455,Mobile,69,Rural,Chrome,Premium,Basic,Clothing,Referral
+411,A,5,20.90783858209573,Mobile,20,Rural,Chrome,Premium,Pro,Books,Social Media
+899,A,3,26.718270264063126,Mobile,66,Urban,Safari,Free,Enterprise,Books,Social Media
+710,A,1,19.353733222942015,Mobile,61,Urban,Safari,Premium,Pro,Books,Social Media
+359,B,2,19.7440654823581,Mobile,49,Urban,Safari,Premium,Basic,Clothing,Paid Ads
+259,B,1,15.653450122321912,Mobile,27,Suburban,Firefox,Free,Pro,Clothing,Social Media
+745,A,5,14.292371233165259,Mobile,57,Rural,Firefox,Premium,Pro,Books,Social Media
+628,B,1,12.621022779975494,Mobile,32,Rural,Safari,Premium,Pro,Electronics,Referral
+633,A,3,10.86944004142729,Mobile,22,Urban,Firefox,Free,Pro,Books,Paid Ads
+283,B,2,11.564929501502514,Mobile,21,Urban,Chrome,Premium,Basic,Clothing,Social Media
+377,A,3,8.247220178285083,Mobile,45,Suburban,Safari,Premium,Enterprise,Electronics,Paid Ads
+385,A,2,14.620642746574884,Mobile,69,Rural,Chrome,Free,Enterprise,Electronics,Paid Ads
+225,B,5,6.576662113868066,Desktop,68,Suburban,Safari,Premium,Pro,Clothing,Paid Ads
+954,A,4,15.954582620718554,Desktop,21,Rural,Chrome,Free,Basic,Electronics,Referral
+815,B,5,14.818346959788292,Mobile,32,Suburban,Safari,Premium,Basic,Books,Paid Ads
+473,B,2,15.734676491933438,Mobile,34,Urban,Chrome,Premium,Basic,Clothing,Paid Ads
+348,A,3,12.389342149900038,Mobile,61,Suburban,Safari,Premium,Basic,Clothing,Paid Ads
+506,A,2,30.384301850902517,Desktop,20,Suburban,Safari,Premium,Basic,Clothing,Social Media
+640,B,1,21.800579500901563,Desktop,27,Urban,Firefox,Premium,Basic,Clothing,Referral
+988,A,3,8.777287499576387,Desktop,64,Rural,Chrome,Free,Pro,Electronics,Social Media
+929,A,1,16.16434043713449,Mobile,59,Rural,Firefox,Premium,Enterprise,Clothing,Referral
+906,A,7,11.959969285313383,Mobile,40,Urban,Chrome,Premium,Enterprise,Clothing,Referral
+620,A,6,9.92760136646293,Mobile,35,Suburban,Firefox,Free,Pro,Electronics,Paid Ads
+856,A,3,8.299639644380326,Mobile,18,Suburban,Safari,Free,Enterprise,Clothing,Paid Ads
+804,B,4,17.16108345379627,Desktop,52,Suburban,Firefox,Premium,Basic,Electronics,Social Media
+646,B,1,11.593098824652131,Mobile,48,Rural,Firefox,Free,Basic,Electronics,Referral
+847,A,1,19.839130120126022,Desktop,61,Suburban,Safari,Premium,Enterprise,Clothing,Paid Ads
+557,A,2,19.968911072652194,Desktop,18,Rural,Firefox,Free,Basic,Books,Paid Ads
+958,A,3,21.869571926057247,Mobile,20,Suburban,Safari,Free,Basic,Clothing,Paid Ads
+578,B,3,10.738066169629482,Desktop,20,Urban,Chrome,Premium,Enterprise,Books,Paid Ads
+796,A,1,17.376828053460052,Desktop,54,Urban,Firefox,Free,Pro,Electronics,Social Media
+86,B,4,18.162271083211504,Desktop,36,Rural,Safari,Premium,Enterprise,Books,Social Media
+243,B,1,12.629109124480175,Desktop,46,Rural,Safari,Free,Enterprise,Clothing,Paid Ads
+699,B,3,11.141140213035625,Mobile,42,Urban,Firefox,Free,Enterprise,Clothing,Paid Ads
+160,A,3,23.047603328879866,Mobile,50,Urban,Chrome,Free,Enterprise,Books,Paid Ads
+525,B,1,16.13747937866027,Desktop,53,Suburban,Firefox,Premium,Pro,Clothing,Paid Ads
+36,A,2,18.17983875355869,Mobile,46,Urban,Safari,Premium,Pro,Books,Paid Ads
+541,B,4,10.889619940860364,Desktop,43,Rural,Chrome,Free,Basic,Electronics,Referral
+171,A,2,8.903577667389031,Mobile,21,Urban,Firefox,Premium,Basic,Books,Referral
+655,B,0,12.152751127539448,Mobile,66,Rural,Safari,Premium,Enterprise,Books,Referral
+891,A,4,14.379893063050014,Mobile,31,Rural,Firefox,Premium,Basic,Books,Referral
+858,B,0,9.678899965913256,Mobile,67,Suburban,Chrome,Free,Pro,Books,Paid Ads
+848,A,2,14.950775956748085,Mobile,44,Suburban,Chrome,Premium,Basic,Electronics,Referral
+945,A,5,6.557474059657499,Desktop,50,Suburban,Chrome,Free,Basic,Electronics,Referral
+734,A,1,9.399762887650638,Mobile,39,Suburban,Chrome,Free,Basic,Electronics,Social Media
+96,A,5,18.354556241384376,Desktop,65,Urban,Chrome,Free,Enterprise,Books,Referral
+564,B,4,18.018952601389472,Desktop,20,Suburban,Firefox,Free,Basic,Electronics,Referral
+241,B,4,13.040616173065668,Mobile,40,Urban,Chrome,Free,Pro,Clothing,Paid Ads
+743,A,3,9.911178454615236,Desktop,38,Suburban,Chrome,Premium,Pro,Electronics,Referral
+575,B,6,9.862982242369945,Mobile,58,Suburban,Safari,Premium,Pro,Books,Referral
+691,A,2,13.13365877029343,Desktop,40,Rural,Chrome,Free,Pro,Clothing,Paid Ads
+461,A,4,18.22259245822646,Desktop,21,Urban,Safari,Premium,Basic,Books,Referral
+554,B,2,19.641228456721624,Mobile,38,Rural,Safari,Premium,Enterprise,Clothing,Paid Ads
+889,A,5,12.517341322590156,Mobile,54,Suburban,Safari,Premium,Pro,Books,Referral
+207,A,3,9.232537870076081,Mobile,60,Urban,Firefox,Premium,Pro,Books,Social Media
+393,B,3,16.339218189331667,Mobile,48,Suburban,Firefox,Premium,Enterprise,Clothing,Social Media
+795,A,3,10.882325146870752,Desktop,38,Rural,Safari,Premium,Enterprise,Electronics,Referral
+398,A,1,12.408736805693987,Mobile,43,Urban,Firefox,Premium,Pro,Clothing,Social Media
+767,A,3,21.626380452185188,Desktop,58,Rural,Chrome,Free,Pro,Clothing,Paid Ads
+849,A,6,19.13557714282884,Desktop,52,Suburban,Firefox,Free,Enterprise,Clothing,Referral
+218,B,3,15.789871561257259,Desktop,55,Suburban,Chrome,Free,Pro,Clothing,Paid Ads
+5,B,1,8.640404994436386,Desktop,41,Suburban,Chrome,Premium,Pro,Clothing,Social Media
+769,B,3,16.056982837353296,Desktop,28,Urban,Firefox,Premium,Basic,Books,Paid Ads
+643,A,3,20.313286453937632,Desktop,58,Rural,Firefox,Free,Enterprise,Books,Social Media
+930,A,2,13.121831671172322,Mobile,46,Rural,Safari,Premium,Basic,Electronics,Social Media
+613,B,3,21.755570449933575,Desktop,64,Suburban,Firefox,Premium,Basic,Electronics,Social Media
+739,A,0,21.463726447591036,Desktop,20,Rural,Firefox,Free,Enterprise,Clothing,Paid Ads
+547,A,8,23.31866416071737,Desktop,18,Urban,Firefox,Free,Basic,Electronics,Social Media
+726,A,1,16.526215632656765,Mobile,69,Suburban,Chrome,Free,Pro,Electronics,Referral
+684,A,1,17.936958499030062,Mobile,36,Suburban,Chrome,Premium,Basic,Clothing,Social Media
+99,B,3,22.07093644165545,Desktop,63,Suburban,Chrome,Premium,Enterprise,Books,Referral
+805,B,2,17.236969685344878,Mobile,66,Urban,Safari,Premium,Pro,Books,Referral
+728,B,2,12.493829461048936,Desktop,39,Suburban,Safari,Free,Pro,Electronics,Referral
+574,A,3,12.757285817360694,Mobile,31,Suburban,Safari,Free,Pro,Books,Referral
+407,B,4,16.192774768868695,Desktop,66,Suburban,Chrome,Premium,Pro,Books,Paid Ads
+503,B,3,8.547192890268906,Mobile,31,Suburban,Firefox,Free,Basic,Electronics,Referral
+48,A,7,14.283705423179036,Mobile,61,Rural,Safari,Free,Basic,Clothing,Social Media
+33,A,3,20.48273559115127,Mobile,33,Suburban,Safari,Premium,Pro,Electronics,Referral
+780,B,3,4.043730744173595,Desktop,50,Urban,Chrome,Free,Enterprise,Electronics,Social Media
+840,B,3,22.672410508972575,Desktop,30,Suburban,Safari,Free,Pro,Electronics,Paid Ads
+201,B,5,20.6118710935158,Desktop,55,Suburban,Firefox,Free,Basic,Clothing,Referral
+135,B,5,12.701176920847619,Mobile,66,Rural,Chrome,Premium,Pro,Clothing,Social Media
+28,A,4,17.716954139359046,Mobile,29,Suburban,Chrome,Premium,Basic,Clothing,Paid Ads
+881,B,4,15.015738634531633,Desktop,68,Rural,Firefox,Free,Pro,Clothing,Paid Ads
+231,B,2,21.149951842193417,Mobile,55,Urban,Firefox,Premium,Enterprise,Electronics,Social Media
+490,A,6,19.913415713849705,Desktop,56,Rural,Firefox,Premium,Pro,Books,Referral
+773,B,3,7.999646384084954,Desktop,50,Suburban,Safari,Premium,Enterprise,Electronics,Paid Ads
+379,A,2,17.936312067320884,Desktop,50,Urban,Firefox,Free,Enterprise,Clothing,Social Media
+289,A,6,13.971860731783762,Desktop,46,Suburban,Chrome,Premium,Pro,Books,Referral
+419,A,4,15.414162852590499,Mobile,22,Rural,Firefox,Free,Enterprise,Electronics,Paid Ads
+675,B,3,11.359140495150923,Mobile,23,Urban,Chrome,Free,Enterprise,Books,Social Media
+392,B,3,23.740685345604177,Mobile,48,Urban,Chrome,Premium,Basic,Clothing,Paid Ads
+593,A,6,20.20030909951288,Desktop,33,Rural,Safari,Free,Basic,Books,Paid Ads
+499,B,4,11.301144180135164,Mobile,48,Rural,Firefox,Premium,Enterprise,Books,Social Media
+139,B,2,8.326946965448837,Desktop,42,Urban,Safari,Premium,Pro,Clothing,Paid Ads
+63,A,1,13.07163684511076,Desktop,65,Urban,Firefox,Free,Enterprise,Books,Social Media
+472,A,3,17.172513230456527,Desktop,63,Rural,Firefox,Free,Pro,Electronics,Referral
+648,B,4,16.201029219731115,Desktop,50,Suburban,Firefox,Premium,Basic,Books,Social Media
+129,A,5,21.265664123841216,Desktop,30,Urban,Firefox,Premium,Pro,Electronics,Referral
+977,B,6,18.94959861090426,Desktop,69,Rural,Firefox,Premium,Enterprise,Books,Paid Ads
+521,B,2,19.847845128764533,Mobile,27,Suburban,Chrome,Premium,Enterprise,Books,Social Media
+839,B,4,16.634277003052187,Mobile,41,Urban,Chrome,Free,Enterprise,Clothing,Social Media
+963,B,4,8.053506348945048,Mobile,27,Urban,Firefox,Free,Enterprise,Clothing,Social Media
+65,A,0,14.021507344265492,Mobile,58,Rural,Chrome,Free,Enterprise,Electronics,Social Media
+813,A,4,20.300448699543328,Desktop,48,Suburban,Safari,Premium,Pro,Clothing,Referral
+15,A,5,14.74238535737677,Desktop,30,Urban,Safari,Free,Enterprise,Clothing,Referral
+157,A,2,17.515451843118733,Mobile,20,Suburban,Safari,Free,Basic,Clothing,Paid Ads
+41,B,5,13.406258423769334,Mobile,67,Suburban,Firefox,Free,Enterprise,Clothing,Paid Ads
+493,B,4,9.850940757290775,Mobile,69,Urban,Firefox,Free,Pro,Clothing,Paid Ads
+380,A,5,14.383279679769448,Mobile,51,Suburban,Chrome,Premium,Enterprise,Electronics,Paid Ads
+188,B,2,16.54523721516327,Mobile,66,Urban,Chrome,Free,Enterprise,Electronics,Social Media
+764,B,2,11.721561402692782,Mobile,45,Suburban,Chrome,Free,Pro,Clothing,Referral
+217,B,0,13.821443775716657,Mobile,36,Urban,Safari,Free,Enterprise,Clothing,Referral
+792,A,4,10.302683790070088,Mobile,40,Rural,Safari,Free,Pro,Electronics,Referral
+53,A,1,20.59622458782048,Desktop,62,Urban,Safari,Premium,Enterprise,Books,Referral
+879,A,2,13.52772121205983,Desktop,49,Urban,Safari,Premium,Basic,Electronics,Paid Ads
+338,B,3,22.263777725630916,Desktop,30,Urban,Chrome,Free,Enterprise,Books,Social Media
+749,A,2,22.643739252704542,Desktop,50,Suburban,Firefox,Premium,Pro,Clothing,Referral
+720,A,2,14.59477017639128,Mobile,51,Rural,Firefox,Premium,Basic,Clothing,Social Media
+725,A,1,9.957756337263252,Desktop,50,Suburban,Safari,Premium,Pro,Electronics,Social Media
+296,A,3,4.570510611333313,Mobile,22,Suburban,Firefox,Premium,Enterprise,Clothing,Social Media
+702,A,4,7.639814634866042,Desktop,20,Urban,Firefox,Free,Basic,Books,Social Media
+252,A,6,8.1308258755067,Mobile,24,Suburban,Firefox,Premium,Pro,Books,Referral
+727,B,3,21.892348137307522,Mobile,41,Urban,Safari,Premium,Basic,Electronics,Referral
+462,B,2,15.57912293613473,Desktop,39,Rural,Chrome,Free,Basic,Books,Referral
+456,A,3,16.948022620459938,Desktop,62,Suburban,Chrome,Free,Pro,Electronics,Paid Ads
+997,A,1,3.8978949553243702,Mobile,40,Suburban,Firefox,Free,Basic,Electronics,Referral
+816,B,2,9.010167853913693,Mobile,47,Suburban,Chrome,Free,Pro,Books,Paid Ads
+863,B,1,19.435398882231436,Mobile,35,Urban,Chrome,Premium,Basic,Books,Paid Ads
+270,A,3,16.433870561912933,Desktop,49,Urban,Safari,Free,Basic,Books,Paid Ads
+202,A,4,14.263973606572014,Desktop,24,Suburban,Safari,Premium,Basic,Books,Referral
+162,A,2,17.824211793000615,Mobile,50,Suburban,Firefox,Premium,Enterprise,Books,Referral
+556,A,2,23.178989030679077,Desktop,22,Rural,Firefox,Free,Enterprise,Books,Referral
+730,B,3,13.894787682314748,Mobile,66,Rural,Firefox,Free,Pro,Books,Paid Ads
+402,A,2,15.346849013290347,Desktop,45,Rural,Safari,Premium,Basic,Clothing,Paid Ads
+703,A,2,15.962984593656525,Desktop,25,Rural,Chrome,Premium,Pro,Electronics,Social Media
+477,A,3,26.96054817636996,Desktop,32,Rural,Safari,Free,Enterprise,Electronics,Paid Ads
+822,A,1,4.503218677904872,Desktop,69,Urban,Safari,Free,Enterprise,Books,Paid Ads
+772,B,6,18.41611507394404,Desktop,21,Rural,Chrome,Free,Enterprise,Electronics,Referral
+106,B,2,14.425988756204681,Mobile,51,Rural,Chrome,Premium,Enterprise,Books,Social Media
+566,B,2,17.833858630920897,Mobile,22,Suburban,Firefox,Premium,Pro,Clothing,Social Media
+390,A,2,11.713137230026378,Desktop,50,Urban,Chrome,Free,Basic,Electronics,Social Media
+2,A,4,14.75517484570775,Mobile,22,Rural,Chrome,Premium,Pro,Electronics,Referral
+938,B,1,18.557052897327477,Mobile,55,Rural,Chrome,Free,Basic,Clothing,Social Media
+983,A,2,30.564551005219208,Desktop,51,Rural,Chrome,Premium,Enterprise,Clothing,Social Media
+562,A,4,19.040180947010356,Mobile,43,Suburban,Firefox,Premium,Basic,Clothing,Referral
+81,B,3,10.759672009847456,Desktop,18,Suburban,Firefox,Free,Enterprise,Electronics,Social Media
+206,B,3,12.881201589886485,Mobile,21,Suburban,Chrome,Free,Pro,Electronics,Paid Ads
+35,B,3,12.732929458080731,Mobile,56,Rural,Chrome,Free,Basic,Clothing,Paid Ads
+776,B,6,6.0217841368499245,Mobile,43,Suburban,Firefox,Premium,Pro,Clothing,Paid Ads
+509,A,3,13.349549041492814,Mobile,50,Rural,Firefox,Premium,Enterprise,Clothing,Paid Ads
+428,A,3,18.664145409108723,Mobile,50,Urban,Chrome,Free,Pro,Clothing,Paid Ads
+455,B,1,8.628839404616024,Mobile,25,Rural,Safari,Premium,Enterprise,Clothing,Paid Ads
+367,A,2,20.242413255252963,Mobile,37,Suburban,Firefox,Free,Enterprise,Books,Paid Ads
+92,B,4,17.43887410542169,Desktop,33,Urban,Firefox,Premium,Enterprise,Clothing,Paid Ads
+340,B,3,11.32883339014481,Desktop,38,Rural,Firefox,Free,Pro,Books,Paid Ads
+898,A,3,14.292351813310763,Desktop,62,Urban,Chrome,Premium,Pro,Electronics,Referral
+565,B,2,22.991609038205166,Desktop,43,Urban,Chrome,Premium,Basic,Electronics,Referral
+346,A,3,18.66773906752933,Mobile,40,Urban,Firefox,Premium,Basic,Books,Paid Ads
+777,A,1,15.04391827449074,Mobile,35,Rural,Chrome,Premium,Pro,Clothing,Referral
+242,A,2,13.811583415195079,Mobile,48,Suburban,Chrome,Free,Pro,Electronics,Referral
+14,A,2,15.383045352258298,Desktop,69,Rural,Firefox,Premium,Pro,Clothing,Paid Ads
+316,B,3,12.441182210288483,Desktop,59,Suburban,Chrome,Free,Pro,Clothing,Paid Ads
+601,A,5,4.476252471404926,Desktop,29,Rural,Safari,Free,Enterprise,Books,Referral
+388,B,3,25.210889552673656,Mobile,18,Rural,Chrome,Free,Enterprise,Electronics,Paid Ads
+274,B,6,15.776624995997008,Desktop,59,Rural,Chrome,Free,Enterprise,Electronics,Paid Ads
+167,B,2,16.990736325612687,Mobile,26,Suburban,Firefox,Premium,Pro,Books,Paid Ads
+841,B,5,14.710461250615456,Desktop,20,Rural,Firefox,Free,Enterprise,Clothing,Paid Ads
+993,A,6,11.32441599637706,Mobile,68,Urban,Safari,Premium,Enterprise,Clothing,Referral
+647,A,6,14.070377595256147,Desktop,43,Rural,Chrome,Premium,Basic,Electronics,Social Media
+819,B,3,7.003026189028444,Mobile,26,Urban,Safari,Premium,Basic,Books,Referral
+485,B,4,26.385432490266524,Desktop,59,Suburban,Safari,Premium,Enterprise,Books,Social Media
+981,A,3,8.82744000788802,Desktop,68,Suburban,Firefox,Free,Enterprise,Clothing,Social Media
+505,B,2,9.840168580764102,Mobile,33,Rural,Chrome,Premium,Enterprise,Clothing,Social Media
+832,A,5,12.798703978067998,Mobile,41,Rural,Firefox,Free,Pro,Books,Referral
+244,B,4,21.44037862426189,Desktop,67,Rural,Safari,Premium,Basic,Electronics,Referral
+567,A,2,15.07254499631327,Mobile,31,Urban,Safari,Premium,Basic,Clothing,Referral
+876,B,0,8.819321019847688,Desktop,20,Suburban,Firefox,Free,Basic,Books,Referral
+563,B,0,21.271691803786698,Mobile,51,Urban,Firefox,Premium,Enterprise,Books,Referral
+687,A,5,18.65500313392741,Desktop,50,Urban,Firefox,Premium,Pro,Books,Social Media
+190,B,6,17.692174786082262,Mobile,67,Rural,Firefox,Premium,Basic,Electronics,Referral
+783,B,1,18.578671205854203,Desktop,41,Rural,Firefox,Premium,Basic,Clothing,Social Media
+700,A,2,26.971809502912254,Desktop,26,Urban,Safari,Premium,Pro,Clothing,Referral
+476,B,5,25.92547447518056,Desktop,30,Urban,Firefox,Free,Enterprise,Clothing,Referral
+682,A,4,11.566423284983523,Mobile,19,Rural,Chrome,Premium,Enterprise,Electronics,Paid Ads
+511,A,3,23.11942496405576,Desktop,24,Rural,Safari,Premium,Basic,Clothing,Social Media
+59,B,2,16.9158409487945,Mobile,65,Urban,Safari,Free,Basic,Clothing,Referral
+475,B,0,17.495479080688746,Mobile,38,Rural,Chrome,Premium,Pro,Clothing,Referral
+561,B,4,6.538645841783357,Mobile,36,Rural,Chrome,Free,Basic,Clothing,Referral
+857,B,5,14.14807117305902,Desktop,42,Urban,Safari,Premium,Pro,Electronics,Paid Ads
+748,B,2,10.935882048317175,Mobile,64,Urban,Firefox,Premium,Basic,Books,Social Media
+253,B,3,19.140294074466546,Mobile,39,Suburban,Safari,Free,Basic,Books,Referral
+22,B,7,20.355402502014027,Mobile,28,Urban,Safari,Premium,Basic,Clothing,Referral
+314,A,5,4.627568244918443,Desktop,50,Rural,Chrome,Premium,Enterprise,Clothing,Referral
+460,B,3,14.889825679978648,Mobile,49,Urban,Safari,Free,Pro,Clothing,Paid Ads
+161,A,1,20.60930752397126,Mobile,38,Urban,Firefox,Free,Pro,Electronics,Referral
+277,B,3,14.066605188432774,Mobile,56,Urban,Chrome,Premium,Enterprise,Clothing,Social Media
+956,B,4,18.64531822501182,Mobile,37,Suburban,Safari,Free,Enterprise,Electronics,Social Media
+192,A,1,16.755827338135422,Desktop,25,Suburban,Safari,Premium,Enterprise,Clothing,Social Media
+386,B,3,16.70830115976313,Desktop,59,Rural,Firefox,Free,Pro,Clothing,Social Media
+806,B,3,13.643425109658512,Mobile,54,Suburban,Safari,Premium,Basic,Books,Referral
+414,A,4,8.917095979321452,Mobile,26,Urban,Safari,Free,Enterprise,Clothing,Paid Ads
+492,B,1,9.392349262874863,Mobile,42,Suburban,Safari,Free,Enterprise,Electronics,Paid Ads
+344,B,2,18.546762572276585,Mobile,42,Urban,Safari,Free,Enterprise,Books,Paid Ads
+770,B,3,15.097291277594415,Desktop,50,Suburban,Firefox,Free,Basic,Electronics,Referral
+309,A,2,14.307438776963876,Desktop,19,Suburban,Safari,Free,Basic,Books,Paid Ads
+662,B,1,12.880549788388237,Desktop,36,Suburban,Safari,Free,Enterprise,Electronics,Social Media
+131,B,1,13.474055772596241,Desktop,63,Urban,Safari,Free,Basic,Books,Referral
+664,B,3,20.2345589724407,Mobile,37,Suburban,Chrome,Free,Enterprise,Electronics,Paid Ads
+872,B,0,13.323779590659866,Mobile,59,Urban,Firefox,Free,Basic,Electronics,Social Media
+100,A,3,8.294676433492157,Desktop,58,Urban,Chrome,Premium,Pro,Clothing,Social Media
+373,A,1,18.718258877700865,Desktop,59,Rural,Chrome,Free,Pro,Books,Referral
+88,B,1,13.975616680676413,Mobile,46,Suburban,Firefox,Premium,Basic,Books,Referral
+459,B,7,15.156979327663882,Mobile,23,Rural,Chrome,Free,Pro,Clothing,Paid Ads
+331,A,3,23.037891531997552,Mobile,34,Rural,Chrome,Premium,Pro,Electronics,Paid Ads
+215,A,2,14.897197213247464,Mobile,42,Urban,Chrome,Premium,Pro,Electronics,Paid Ads
+467,B,4,16.445918365593627,Mobile,55,Suburban,Firefox,Free,Enterprise,Books,Referral
+122,A,4,9.105382543508373,Desktop,21,Urban,Safari,Free,Basic,Electronics,Paid Ads
+615,B,0,13.901652738245199,Desktop,47,Urban,Firefox,Premium,Basic,Books,Paid Ads
+21,A,3,18.047630226043005,Mobile,37,Suburban,Firefox,Premium,Basic,Books,Social Media
+701,A,3,7.223131330793788,Mobile,20,Urban,Firefox,Free,Pro,Electronics,Social Media
+72,A,7,16.004225465578546,Desktop,40,Suburban,Chrome,Free,Enterprise,Electronics,Social Media
+107,A,3,15.503955363224032,Mobile,68,Suburban,Safari,Free,Basic,Electronics,Paid Ads
+271,B,2,15.206437277937196,Desktop,35,Urban,Firefox,Premium,Pro,Clothing,Referral
+861,A,4,20.185794493291215,Desktop,43,Urban,Firefox,Free,Enterprise,Books,Social Media
+436,A,2,16.672192574242608,Desktop,53,Rural,Safari,Free,Enterprise,Electronics,Referral
+103,B,2,22.39035949178222,Desktop,25,Urban,Safari,Free,Basic,Clothing,Paid Ads
