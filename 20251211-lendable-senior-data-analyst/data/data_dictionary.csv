@@ -1,0 +1,21 @@
+Name,Description
+UID,unique identifier
+Application Date,Date of loan application
+Amount,Amount requested by applicant
+Term,Repayment period requested by applicant
+Employment Type,Stated employment
+LoanPurpose,Purpose of loan
+Success,Applicant successful
+ALL_AgeOfOldestAccount,Age of oldest accounts
+ALL_AgeOfYoungestAccount,Age of youngest accounts
+ALL_Count,No. of accounts
+ALL_CountActive,No. of active accounts
+ALL_CountClosedLast12Months,Count of accounts closed last 12 months
+ALL_CountDefaultAccounts,Count of default accounts
+ALL_CountOpenedLast12Months,Count of accounts opened last 12 months
+ALL_CountSettled,No. of settled accounts
+ALL_MeanAccountAge,Mean account age
+ALL_SumCurrentOutstandingBal,Sum of outstanding Bal
+ALL_SumCurrentOutstandingBalExcMtg,Sum of outstanding Bal excluding mortgage accounts
+ALL_TimeSinceMostRecentDefault,Months since most recent default on accounts
+ALL_WorstPaymentStatusActiveAccounts,Current Worst Payment Status
