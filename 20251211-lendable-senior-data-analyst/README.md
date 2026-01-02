@@ -25,6 +25,7 @@ A personal loan company needs to understand what drives successful loan applicat
 
 ## Flow
 
+```mermaid
 graph TD
     %% Node Definitions
     Start[(Data Loading)] --> Schema[Schema Review & Understanding]
@@ -51,6 +52,7 @@ graph TD
     style Ready fill:#00d2ff,stroke:#333,stroke-width:2px,color:#fff
     style Modeling_Phase fill:#f5f5f5,stroke:#666,stroke-dasharray: 5 5
     style Interp font-weight:bold,fill:#90ee90
+```
 
 
 - `yogi_takehome-test_fintech01_senior-data-analyst.ipynb` - Main analysis
