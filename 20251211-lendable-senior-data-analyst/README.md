@@ -47,11 +47,16 @@ graph TD
     
     Ready --> Assump
 
-    %% Styling
-    style Start fill:#f9f,stroke:#333,stroke-width:2px
-    style Ready fill:#00d2ff,stroke:#333,stroke-width:2px,color:#fff
-    style Modeling_Phase fill:#f5f5f5,stroke:#666,stroke-dasharray: 5 5
-    style Interp font-weight:bold,fill:#90ee90
+    %% Styling - Dark mode friendly palette
+    style Start fill:#0d6efd,stroke:#0a58ca,stroke-width:2px,color:#fff
+    style Schema fill:#6c757d,stroke:#495057,color:#fff
+    style Transform fill:#6c757d,stroke:#495057,color:#fff
+    style EDA fill:#fd7e14,stroke:#dc6a10,color:#fff
+    style Ready fill:#198754,stroke:#146c43,stroke-width:2px,color:#fff
+    style Assump fill:#6f42c1,stroke:#59359a,color:#fff
+    style Run fill:#6f42c1,stroke:#59359a,color:#fff
+    style Interp fill:#20c997,stroke:#1aa179,stroke-width:2px,color:#000
+    style Modeling_Phase fill:#1e1e1e,stroke:#3d3d3d,stroke-width:2px,stroke-dasharray:5 5
 ```
 
 
