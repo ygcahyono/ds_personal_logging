@@ -63,5 +63,10 @@ graph TD
 - `yogi_takehome-test_fintech01_senior-data-analyst.ipynb` - Main analysis
 - `data/` - Raw data
 
+## Interesting Insight
+
+### VIF
+
+
 ---
 Yogi Cahyono | [15 December 2025]
