@@ -5,8 +5,4 @@
 *.pdf
 
 # Ignore CSV files
-# *.csv
-
-
-
-
+*.csv
